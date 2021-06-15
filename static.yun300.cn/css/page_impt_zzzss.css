@@ -1,0 +1,3850 @@
+ .e_ContentMajorStyleBox-001 {
+     width: 100%;
+     height: auto;
+     width-uint: %;
+ }
+
+ .e_ContentMajorStyleBox-001 .stylebox_link {
+     color: #666666;
+     font-size: 14px;
+     height: inherit;
+     display: table;
+     padding: 0 15px;
+     border-width: 0px;
+     float: right;
+     vertical-align: middle;
+     margin-right: 15px;
+ }
+
+ .e_ContentMajorStyleBox-001 .stylebox_top {
+     width: auto;
+     height: 40px;
+     background-color: rgba(101, 190, 186, 1);
+ }
+
+ .e_ContentMajorStyleBox-001 .title_icon {
+     display: inline-block;
+     vertical-align: middle;
+     line-height: 40px;
+     color: rgba(255, 255, 255, 1);
+     margin-right: 10px;
+     font-size: medium;
+ }
+
+ .e_ContentMajorStyleBox-001 .title_icon::before {
+     content: "";
+ }
+
+ .e_ContentMajorStyleBox-001 .title_main {
+     display: inline-block;
+     vertical-align: middle;
+     line-height: 40px;
+     color: rgba(255, 255, 255, 1);
+     font-weight: normal;
+     font-size: 16px;
+     max-width: 600px;
+     overflow: hidden;
+     text-overflow: ellipsis;
+     white-space: nowrap;
+ }
+
+ .e_ContentMajorStyleBox-001 .title_sub {
+     display: inline-block;
+     vertical-align: middle;
+     line-height: 40px;
+     color: rgba(255, 255, 255, 1);
+     font-size: 14px;
+     font-weight: normal;
+     margin-left: 10px;
+ }
+
+ .e_ContentMajorStyleBox-001 .stylebox_title {
+     display: inline-block;
+     width: auto;
+     height: inherit;
+     background-color: rgba(101, 190, 186, 1);
+     padding-left: 15px;
+     padding-right: 15px;
+     font-size: 0;
+     vertical-align: bottom;
+     white-space: nowrap;
+     padding-right: 22px;
+     vertical-align: top;
+ }
+
+ .e_ContentMajorStyleBox-001 .stylebox_link a {
+     color: inherit;
+     display: table-cell;
+     vertical-align: middle;
+ }
+
+ .e_ContentMajorStyleBox-001 .link_icon {
+     display: inline-block;
+     margin-left: 5px;
+ }
+
+ .e_ContentMajorStyleBox-001 .link_icon::before {
+     content: '\e6af';
+ }
+
+ .e_ContentMajorStyleBox-001 .stylebox_top_line {
+     height: 1px;
+     background-color: rgba(240, 240, 240, 1);
+ }
+
+ .e_ContentMajorStyleBox-001 .stylebox_content {
+     border-style: solid;
+     border-width: 1px;
+     border-color: #f0f0f0;
+     width: 100%;
+     width-uint: %;
+ }
+
+ .e_ContentMajorStyleBox-001 .stylebox_bottom_line {
+     height: 1px;
+     background-color: rgba(240, 240, 240, 1);
+ }
+
+ .e_FlowCommonStyleBox-001 {
+     width: 100%;
+     height: auto;
+     width-uint: %;
+ }
+
+ .e_FlowCommonStyleBox-001 .stylebox_link {
+     color: #666666;
+     font-size: 14px;
+     display: table;
+     height: inherit;
+     border-width: 0;
+     float: right;
+     vertical-align: middle;
+     margin-right: 15px;
+ }
+
+ .e_FlowCommonStyleBox-001 .stylebox_link:hover {
+     color: rgba(101, 190, 186, 1);
+ }
+
+ .e_FlowCommonStyleBox-001 .stylebox_link:active {
+     color: rgba(101, 190, 186, 1);
+ }
+
+ .e_FlowCommonStyleBox-001 .stylebox_top {
+     width: auto;
+     height: 40px;
+     background-color: #1890FF;
+ }
+
+ .e_FlowCommonStyleBox-001 .title_icon {
+     display: inline-block;
+     vertical-align: middle;
+     line-height: 40px;
+     color: rgba(255, 255, 255, 1);
+     margin-right: 10px;
+     font-size: medium;
+ }
+
+ .e_FlowCommonStyleBox-001 .title_icon::before {
+     content: "";
+ }
+
+ .e_FlowCommonStyleBox-001 .title_main {
+     display: inline-block;
+     vertical-align: middle;
+     line-height: 40px;
+     color: rgba(255, 255, 255, 1);
+     font-weight: normal;
+     font-size: 16px;
+     max-width: 600px;
+     overflow: hidden;
+     text-overflow: ellipsis;
+     white-space: nowrap;
+ }
+
+ .e_FlowCommonStyleBox-001 .title_sub {
+     display: inline-block;
+     vertical-align: middle;
+     line-height: 40px;
+     color: rgba(255, 255, 255, 1);
+     font-size: 14px;
+     font-weight: normal;
+     margin-left: 10px;
+ }
+
+ .e_FlowCommonStyleBox-001 .stylebox_title {
+     display: inline-block;
+     width: auto;
+     height: inherit;
+     background-color: #1890FF;
+     padding-left: 15px;
+     padding-right: 15px;
+     font-size: 0;
+     vertical-align: bottom;
+     white-space: nowrap;
+ }
+
+ .e_FlowCommonStyleBox-001 .stylebox_link a {
+     color: inherit;
+     display: table-cell;
+     vertical-align: middle;
+ }
+
+ .e_FlowCommonStyleBox-001 .link_icon {
+     display: inline-block;
+     margin-left: 5px;
+ }
+
+ .e_FlowCommonStyleBox-001 .link_icon::before {
+     content: '\e6af';
+ }
+
+ .e_FlowCommonStyleBox-001 .stylebox_top_line {
+     height: 1px;
+     background-color: rgba(240, 240, 240, 1);
+ }
+
+ .e_FlowCommonStyleBox-001 .stylebox_content {
+     border-style: solid;
+     border-width: 1px;
+     border-color: #f0f0f0;
+     width: 100%;
+     width-uint: %;
+ }
+
+ .e_FlowCommonStyleBox-001 .stylebox_bottom_line {
+     height: 1px;
+     background-color: rgba(240, 240, 240, 1);
+ }
+
+ .e_SideMajorStyleBox-001 {
+     width: 100%;
+     height: auto;
+     width-uint: %;
+ }
+
+ .e_SideMajorStyleBox-001 .stylebox_link {
+     color: #666666;
+     font-size: 14px;
+     display: table;
+     height: inherit;
+     border-width: 0;
+     float: right;
+     vertical-align: middle;
+     margin-right: 15px;
+ }
+
+ .e_SideMajorStyleBox-001 .stylebox_top {
+     width: auto;
+     height: 40px;
+     background-color: rgba(101, 190, 186, 1);
+ }
+
+ .e_SideMajorStyleBox-001 .title_icon {
+     display: inline-block;
+     vertical-align: middle;
+     line-height: 40px;
+     color: rgba(255, 255, 255, 1);
+     margin-right: 10px;
+     font-size: medium;
+ }
+
+ .e_SideMajorStyleBox-001 .title_icon::before {
+     content: "";
+ }
+
+ .e_SideMajorStyleBox-001 .title_main {
+     display: inline-block;
+     vertical-align: middle;
+     line-height: 40px;
+     color: rgba(255, 255, 255, 1);
+     font-weight: normal;
+     font-size: 16px;
+     max-width: 600px;
+     overflow: hidden;
+     text-overflow: ellipsis;
+     white-space: nowrap;
+ }
+
+ .e_SideMajorStyleBox-001 .title_sub {
+     display: inline-block;
+     vertical-align: middle;
+     line-height: 40px;
+     color: rgba(255, 255, 255, 1);
+     font-size: 14px;
+     font-weight: normal;
+     margin-left: 10px;
+ }
+
+ .e_SideMajorStyleBox-001 .stylebox_title {
+     display: inline-block;
+     width: auto;
+     height: inherit;
+     background-color: rgba(101, 190, 186, 1);
+     padding-left: 15px;
+     padding-right: 15px;
+     font-size: 0;
+     vertical-align: bottom;
+     white-space: nowrap;
+ }
+
+ .e_SideMajorStyleBox-001 .stylebox_link a {
+     color: inherit;
+     display: table-cell;
+     vertical-align: middle;
+ }
+
+ .e_SideMajorStyleBox-001 .link_icon {
+     display: inline-block;
+     margin-left: 5px;
+ }
+
+ .e_SideMajorStyleBox-001 .link_icon::before {
+     content: '\e6af';
+ }
+
+ .e_SideMajorStyleBox-001 .stylebox_top_line {
+     height: 1px;
+     background-color: rgba(240, 240, 240, 1);
+ }
+
+ .e_SideMajorStyleBox-001 .stylebox_content {
+     border-style: solid;
+     border-width: 1px;
+     border-color: #f0f0f0;
+     width: 100%;
+     width-uint: %;
+ }
+
+ .e_SideMajorStyleBox-001 .stylebox_bottom_line {
+     height: 1px;
+     background-color: rgba(240, 240, 240, 1);
+ }
+
+ @media only screen and (max-width: 768px) {
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbCurrent {
+         font-size: 0;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbCurrent {
+         display: inline-block;
+         vertical-align: middle;
+         position: relative;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbCurrent .font {
+         display: inline-block;
+         font-size: 14px;
+         color: #666;
+         height: 30px;
+         line-height: 30px;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbCurrent .before:before {
+         content: "\200B";
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbCurrent .after:before {
+         content: "\200B";
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumb {
+         font-size: 14px;
+         color: #65beba;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumb {
+         display: inline-block;
+         vertical-align: middle;
+         position: relative;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumb>a>.font {
+         display: inline-block;
+         line-height: 30px;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumb>a {
+         color: inherit;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumb.contentBox>a>.font {}
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumb.contentBox>a>.font:hover {
+         text-decoration: none;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumb>a>.font:hover {
+         text-decoration: underline;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumb .before:before {
+         content: "\200B";
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumb .after:before {
+         content: "\200B";
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumb.contentBox:hover>a>.font:before {
+         content: "\200B";
+         display: block;
+         height: 1px;
+         background: #fff;
+         width: 100%;
+         width: calc(100% - 1px);
+         position: absolute;
+         bottom: -1px;
+         left: 1px;
+         z-index: 10;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumb.contentBox:hover>a>.font {
+         border: 1px solid #65beba;
+         border-bottom: 1px solid transparent;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumb.contentBox .after {
+         margin-right: 5px;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumb.contentBox .after:before {
+         content: "\e69a";
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumb.contentBox:hover .after:before {
+         content: "\e69c";
+     }
+     .e_title.c_portalResBreadcrumb_nav-01001.p_sortLink {
+         display: inline-block;
+         padding: 0;
+         color: rgba(101, 190, 186, 1);
+         font-size: 14px;
+         text-align: left;
+     }
+     .e_title.c_portalResBreadcrumb_nav-01001.p_sortLink {
+         white-space: nowrap;
+         vertical-align: middle;
+         line-height: 19px;
+     }
+     a>.e_title.c_portalResBreadcrumb_nav-01001 .p_sortLink:hover {
+         text-decoration: underline;
+         font-weight: bold;
+         cursor: pointer;
+     }
+     a>.e_title.c_portalResBreadcrumb_nav-01001 .p_sortLink:active {
+         color: rgba(69, 165, 161, 1);
+         font-weight: 400;
+     }
+     a>.e_title.c_portalResBreadcrumb_nav-01001 .p_sortLink:active {
+         text-decoration: none;
+         margin-top: 0;
+     }
+     .e_title.c_portalResBreadcrumb_nav-01001 .p_sortLink .iconfont:before {
+         display: inline-block;
+         content: "";
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_content {
+         margin: 0;
+         width: 236px;
+         height: 317px;
+         padding: 0;
+         border-width: 1px;
+         border-style: none;
+         border-color: rgba(228, 228, 228, 0);
+         background-color: transparent;
+         overflow: hidden;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbSecond {
+         font-size: 14px;
+         color: #65beba;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbSecond {
+         display: inline-block;
+         vertical-align: middle;
+         position: relative;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbSecond>a>.font {
+         display: inline-block;
+         line-height: 30px;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbSecond>a {
+         color: inherit;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbSecond.contentBox>a>.font {
+         border: 1px solid #e0f2f1;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbSecond.contentBox>a>.font:hover {
+         text-decoration: none;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbSecond>a>.font:hover {
+         text-decoration: underline;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbSecond .before:before {
+         content: "\200B";
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbSecond .after:before {
+         content: "\200B";
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbSecond.contentBox:hover>a>.font:before {
+         content: "\200B";
+         display: block;
+         height: 1px;
+         background: #fff;
+         width: 100%;
+         width: calc(100% - 1px);
+         position: absolute;
+         bottom: -1px;
+         left: 1px;
+         z-index: 10;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbSecond.contentBox:hover>a>.font {
+         border: 1px solid #65beba;
+         border-bottom: 1px solid transparent;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbSecond.contentBox .after {
+         margin-right: 5px;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbSecond.contentBox .after:before {
+         content: "\e69a";
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbSecond.contentBox:hover .after:before {
+         content: "\e69c";
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_end {
+         display: inline-block;
+         margin: 0;
+         padding: 0;
+         text-align: left;
+         color: rgba(51, 51, 51, 1);
+         font-size: 14px;
+         font-weight: 400;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_end .font {
+         white-space: nowrap;
+         vertical-align: middle;
+         text-align: inherit;
+         line-height: 14px;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_end .iconfont:before {
+         display: inline-block;
+         content: "";
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbFirst {
+         font-size: 14px;
+         color: #65beba;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbFirst {
+         display: inline-block;
+         vertical-align: middle;
+         position: relative;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbFirst>a>.font {
+         display: inline-block;
+         line-height: 30px;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbFirst>a {
+         color: inherit;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbFirst.contentBox>a>.font {
+         border: 1px solid #e0f2f1;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbFirst.contentBox>a>.font:hover {
+         text-decoration: none;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbFirst>a>.font:hover {
+         text-decoration: underline;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbFirst .before:before {
+         content: "\200B";
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbFirst .after:before {
+         content: "\200B";
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbFirst.contentBox:hover>a>.font:before {
+         content: "\200B";
+         display: block;
+         height: 1px;
+         background: #fff;
+         width: 100%;
+         width: calc(100% - 1px);
+         position: absolute;
+         bottom: -1px;
+         left: 1px;
+         z-index: 10;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbFirst.contentBox:hover>a>.font {
+         border: 1px solid #65beba;
+         border-bottom: 1px solid transparent;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbFirst.contentBox .after {
+         margin-right: 5px;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbFirst.contentBox .after:before {
+         content: "\e69a";
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbFirst.contentBox:hover .after:before {
+         content: "\e69c";
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbList {
+         margin: 0;
+         width: 236px;
+         height: 317px;
+         padding: 0;
+         border-width: 1px;
+         border-style: none;
+         border-color: rgba(228, 228, 228, 0);
+         background-color: transparent;
+         overflow: hidden;
+     }
+     .c_portalResBreadcrumb_nav-01001 {
+         width: 1180px;
+         height: 30px;
+         overflow: visible;
+         font-size: 0;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbList {
+         width: auto;
+         height: auto;
+         overflow: visible;
+         background-color: transparent;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbList>a {
+         display: inline-block;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_CurrentBox {
+         color: #666;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbFirst .before:before {
+         content: "\e68a";
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_content {
+         width: 240px;
+         position: absolute;
+         border: 1px solid #65beba;
+         padding: 9px 7px 9px 7px;
+         font-size: 0;
+         display: none;
+         height: auto;
+         background: #fff;
+     }
+     .c_portalResBreadcrumb_nav-01001 .contentBox:hover .p_content {
+         display: block;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_sortLink {
+         color: #65beba;
+         display: inline-block;
+         margin: 9px 7px 9px 7px;
+         cursor: pointer;
+         font-size: 14px;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_sortLink .font {
+         line-height: 14px;
+         font-weight: normal;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_sortLink:hover {
+         text-decoration: underline;
+         font-weight: normal;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_sortLink.current {
+         color: #bcbcbc;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_sortLink.current:hover {
+         text-decoration: none;
+         font-weight: normal;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_sortLink.current .font {
+         text-decoration: none;
+         font-weight: normal;
+         cursor: default;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_end {
+         margin-right: 6px;
+         margin-left: 6px;
+         vertical-align: middle;
+     }
+ }
+
+ @media only screen and (min-width: 769px) {
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbCurrent {
+         font-size: 0;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbCurrent {
+         display: inline-block;
+         vertical-align: middle;
+         position: relative;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbCurrent .font {
+         display: inline-block;
+         font-size: 14px;
+         color: #666;
+         height: 30px;
+         line-height: 30px;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbCurrent .before:before {
+         content: "\200B";
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbCurrent .after:before {
+         content: "\200B";
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumb {
+         font-size: 14px;
+         color: #666;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumb {
+         display: inline-block;
+         vertical-align: middle;
+         position: relative;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumb>a>.font {
+         display: inline-block;
+         line-height: 30px;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumb>a {
+         color: inherit;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumb.contentBox>a>.font {}
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumb.contentBox>a>.font:hover {
+         text-decoration: none;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumb>a>.font:hover {
+         text-decoration: underline;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumb .before:before {
+         content: "\200B";
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumb .after:before {
+         content: "\200B";
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumb.contentBox:hover>a>.font:before {
+         content: "\200B";
+         display: block;
+         height: 1px;
+         background: #fff;
+         width: 100%;
+         width: calc(100% - 1px);
+         position: absolute;
+         bottom: -1px;
+         left: 1px;
+         z-index: 10;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumb.contentBox:hover>a>.font {
+         border: 1px solid #65beba;
+         border-bottom: 1px solid transparent;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumb.contentBox .after {
+         margin-right: 5px;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumb.contentBox .after:before {
+         content: "\e69a";
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumb.contentBox:hover .after:before {
+         content: "\e69c";
+     }
+     .e_title.c_portalResBreadcrumb_nav-01001.p_sortLink {
+         display: inline-block;
+         padding: 0;
+         color: rgba(101, 190, 186, 1);
+         font-size: 14px;
+         text-align: left;
+     }
+     .e_title.c_portalResBreadcrumb_nav-01001.p_sortLink {
+         white-space: nowrap;
+         vertical-align: middle;
+         line-height: 19px;
+     }
+     a>.e_title.c_portalResBreadcrumb_nav-01001 .p_sortLink:hover {
+         text-decoration: underline;
+         font-weight: bold;
+         cursor: pointer;
+     }
+     a>.e_title.c_portalResBreadcrumb_nav-01001 .p_sortLink:active {
+         color: rgba(69, 165, 161, 1);
+         font-weight: 400;
+     }
+     a>.e_title.c_portalResBreadcrumb_nav-01001 .p_sortLink:active {
+         text-decoration: none;
+         margin-top: 0;
+     }
+     .e_title.c_portalResBreadcrumb_nav-01001 .p_sortLink .iconfont:before {
+         display: inline-block;
+         content: "";
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_content {
+         margin: 0;
+         width: 236px;
+         height: 317px;
+         padding: 0;
+         border-width: 1px;
+         border-style: none;
+         border-color: rgba(228, 228, 228, 0);
+         background-color: transparent;
+         overflow: hidden;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbSecond {
+         font-size: 14px;
+         color: #65beba;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbSecond {
+         display: inline-block;
+         vertical-align: middle;
+         position: relative;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbSecond>a>.font {
+         display: inline-block;
+         line-height: 30px;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbSecond>a {
+         color: inherit;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbSecond.contentBox>a>.font {
+         border: 1px solid #e0f2f1;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbSecond.contentBox>a>.font:hover {
+         text-decoration: none;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbSecond>a>.font:hover {
+         text-decoration: underline;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbSecond .before:before {
+         content: "\200B";
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbSecond .after:before {
+         content: "\200B";
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbSecond.contentBox:hover>a>.font:before {
+         content: "\200B";
+         display: block;
+         height: 1px;
+         background: #fff;
+         width: 100%;
+         width: calc(100% - 1px);
+         position: absolute;
+         bottom: -1px;
+         left: 1px;
+         z-index: 10;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbSecond.contentBox:hover>a>.font {
+         border: 1px solid #65beba;
+         border-bottom: 1px solid transparent;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbSecond.contentBox .after {
+         margin-right: 5px;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbSecond.contentBox .after:before {
+         content: "\e69a";
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbSecond.contentBox:hover .after:before {
+         content: "\e69c";
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_end {
+         display: inline-block;
+         margin: 0;
+         padding: 0;
+         text-align: left;
+         color: rgba(51, 51, 51, 1);
+         font-size: 14px;
+         font-weight: 400;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_end .font {
+         white-space: nowrap;
+         vertical-align: middle;
+         text-align: inherit;
+         line-height: 14px;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_end .iconfont:before {
+         display: inline-block;
+         content: "";
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbFirst {
+         font-size: 14px;
+         color: #666;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbFirst {
+         display: inline-block;
+         vertical-align: middle;
+         position: relative;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbFirst>a>.font {
+         display: inline-block;
+         line-height: 30px;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbFirst>a {
+         color: inherit;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbFirst.contentBox>a>.font {
+         border: 1px solid #e0f2f1;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbFirst.contentBox>a>.font:hover {
+         text-decoration: none;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbFirst>a>.font:hover {
+         text-decoration: underline;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbFirst .before:before {
+         content: "\200B";
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbFirst .after:before {
+         content: "\200B";
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbFirst.contentBox:hover>a>.font:before {
+         content: "\200B";
+         display: block;
+         height: 1px;
+         background: #fff;
+         width: 100%;
+         width: calc(100% - 1px);
+         position: absolute;
+         bottom: -1px;
+         left: 1px;
+         z-index: 10;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbFirst.contentBox:hover>a>.font {
+         border: 1px solid #65beba;
+         border-bottom: 1px solid transparent;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbFirst.contentBox .after {
+         margin-right: 5px;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbFirst.contentBox .after:before {
+         content: "\e69a";
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbFirst.contentBox:hover .after:before {
+         content: "\e69c";
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbList {
+         margin: 0;
+         width: 236px;
+         height: 317px;
+         padding: 0;
+         border-width: 1px;
+         border-style: none;
+         border-color: rgba(228, 228, 228, 0);
+         background-color: transparent;
+         overflow: hidden;
+     }
+     .c_portalResBreadcrumb_nav-01001 {
+         width: 1180px;
+         height: 30px;
+         overflow: visible;
+         font-size: 0;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbList {
+         width: auto;
+         height: auto;
+         overflow: visible;
+         background-color: transparent;
+         border-bottom: 1px solid #ddd;
+         padding-bottom: 5px;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbList>a {
+         display: inline-block;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_CurrentBox {
+         color: #666;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_breadcrumbFirst .before:before {
+         content: "\e68a";
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_content {
+         width: 240px;
+         position: absolute;
+         border: 1px solid #65beba;
+         padding: 9px 7px 9px 7px;
+         font-size: 0;
+         display: none;
+         height: auto;
+         background: #fff;
+     }
+     .c_portalResBreadcrumb_nav-01001 .contentBox:hover .p_content {
+         display: block;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_sortLink {
+         color: #65beba;
+         display: inline-block;
+         margin: 9px 7px 9px 7px;
+         cursor: pointer;
+         font-size: 14px;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_sortLink .font {
+         line-height: 14px;
+         font-weight: normal;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_sortLink:hover {
+         text-decoration: underline;
+         font-weight: normal;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_sortLink.current {
+         color: #bcbcbc;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_sortLink.current:hover {
+         text-decoration: none;
+         font-weight: normal;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_sortLink.current .font {
+         text-decoration: none;
+         font-weight: normal;
+         cursor: default;
+     }
+     .c_portalResBreadcrumb_nav-01001 .p_end {
+         margin-right: 6px;
+         margin-left: 6px;
+         vertical-align: middle;
+     }
+ }
+
+ @media only screen and (max-width: 1024px) and (min-width: 769px) {}
+
+ .marqueeleft {
+     height: 136px;
+     width: 474px;
+     overflow: hidden;
+     margin: 40px auto;
+ }
+
+ .marqueeleft ul {
+     float: left;
+ }
+
+ .marqueeleft li {
+     float: left;
+     margin: 0 5px;
+     display: inline;
+     width: 148px;
+     height: 133px;
+     overflow: hidden;
+ }
+
+ .marqueeleft li .pic {
+     display: block;
+     border: #ccc 1px solid;
+     width: 135px;
+     height: 104px;
+     padding: 2px;
+     overflow: hidden;
+ }
+
+ .marqueeleft li .txt {
+     text-align: center;
+     height: 23px;
+     line-height: 23px;
+ }
+
+ .scrollleft {
+     z-index: 9999;
+     width: 100%;
+     padding: 0px;
+     margin: 0px;
+ }
+
+ .scrollleft li {
+     margin: 0px 10px;
+     display: inline-block;
+     width: 226px;
+     text-align: center;
+ }
+
+ .scrollleft img {
+     width: 226px;
+     height: 315px;
+     padding: 0px;
+ }
+
+ .scrollleft li .title {
+     text-align: center;
+     border: 0px solid #ddd;
+     color: #000;
+     padding-top: 10px;
+ }
+
+ .scrollleft li .pic {
+     background: #fff;
+ }
+
+ .scrollleft li .title a {
+     color: #0073CC;
+     font-size: 14px;
+     padding: 15px 0px;
+     display: block;
+ }
+
+ .newBoxscroll {
+     width: 100%;
+     max-width: 1200px;
+     margin: 0 auto;
+ }
+
+ .carousel {
+     position: relative;
+     margin: 0 auto;
+     width: 1100px;
+     background: none transparent scroll repeat 0 0;
+     height: 400px;
+ }
+
+ .carousel .slides {
+     position: relative;
+     margin: 0 auto 30px;
+     overflow: hidden
+ }
+
+ .carousel .slides .slideItem {
+     position: absolute;
+     padding-bottom: 0;
+     padding-left: 0;
+     padding-right: 0;
+     cursor: pointer;
+     padding-top: 0;
+     opacity: 1
+ }
+
+ .carousel .slides .slideItem A {
+     display: block;
+     overflow: hidden
+ }
+
+ .carousel .slides .slideItem IMG {
+     width: 100%;
+     height: 100%;
+     box-shadow: 0 0 5px #000
+ }
+
+ .carousel .slides .slideItem .cover {
+     position: absolute;
+     width: 100% !important;
+     display: block;
+     height: 50px !important;
+     top: 350px;
+     left: 0;
+     z-index: 9999;
+ }
+
+ .prevButton {
+     z-index: 9999999;
+     position: absolute;
+     width: 57px;
+     display: block;
+     background: url(/img/shopleft.png?tenantId=221739&viewType=1) no-repeat left top;
+     height: 57px;
+     top: 150px;
+     cursor: pointer;
+ }
+
+ .nextButton {
+     z-index: 9999999;
+     position: absolute;
+     width: 57px;
+     display: block;
+     background: url(/img/shopright.png?tenantId=221739&viewType=1) no-repeat left top;
+     height: 57px;
+     top: 150px;
+     cursor: pointer;
+ }
+
+ .prevButton {
+     left: -40px;
+ }
+
+ .nextButton {
+     right: -40px;
+ }
+
+ .c_portalResNews_list-01001021 {
+     min-width: 320px;
+     width: 100%;
+ }
+
+ .c_portalResNews_list-01001021 .p_PromptNoneData {
+     width: auto;
+     text-align: center
+ }
+
+ .c_portalResNews_list-01001021 .p_PromptNoneData .prompt_title .iconfont:before {
+     content: ""
+ }
+
+ .c_portalResNews_list-01001021 .p_PromptNoneData .prompt_title .first {
+     height: auto;
+     display: table-cell;
+     position: relative;
+     vertical-align: middle;
+     padding: 0 10px 5px 0;
+ }
+
+ .c_portalResNews_list-01001021 .p_PromptNoneData .prompt_title {
+     display: inline-table;
+     padding: 0 30px;
+     min-height: 200px;
+     height: 100%
+ }
+
+ .c_portalResNews_list-01001021 .p_PromptNoneData .prompt_title .first:before {
+     content: "\e6b4"
+ }
+
+ .c_portalResNews_list-01001021 .p_PromptNoneData .prompt_title .font {
+     display: table-cell;
+     vertical-align: middle;
+     text-align: left
+ }
+
+ .c_portalResNews_list-01001021 .p_PromptNoneData .promptbox {
+     width: auto;
+     height: 100%
+ }
+
+ .c_portalResNews_list-01001021 .p_PromptNoneData .prompt_content {
+     padding-left: 65px
+ }
+
+ .c_portalResNews_list-01001021 .p_moreBtn {
+     position: static;
+     width: auto;
+     display: inline-table;
+     min-height: 29px;
+     margin: 0;
+     padding-bottom: 5px;
+     padding-left: 10px;
+     padding-right: 10px;
+     padding-top: 5px;
+     min-width: 86px;
+     cursor: pointer;
+     text-align: center
+ }
+
+ .c_portalResNews_list-01001021 .p_moreBtn .font {
+     white-space: nowrap;
+     overflow: visible;
+     vertical-align: middle
+ }
+
+ .c_portalResNews_list-01001021 .p_moreBtn .iconfont:before {
+     content: ""
+ }
+
+ @-moz-keyframes three-quarters-loader {
+     0% {
+         -moz-transform: rotate(0deg);
+         transform: rotate(0deg);
+     }
+     100% {
+         -moz-transform: rotate(360deg);
+         transform: rotate(360deg);
+     }
+ }
+
+ @-webkit-keyframes three-quarters-loader {
+     0% {
+         -webkit-transform: rotate(0deg);
+         transform: rotate(0deg);
+     }
+     100% {
+         -webkit-transform: rotate(360deg);
+         transform: rotate(360deg);
+     }
+ }
+
+ @keyframes three-quarters-loader {
+     0% {
+         -moz-transform: rotate(0deg);
+         -ms-transform: rotate(0deg);
+         -webkit-transform: rotate(0deg);
+         transform: rotate(0deg);
+     }
+     100% {
+         -moz-transform: rotate(360deg);
+         -ms-transform: rotate(360deg);
+         -webkit-transform: rotate(360deg);
+         transform: rotate(360deg);
+     }
+ }
+
+ .loading_animation {
+     -moz-animation: three-quarters-loader 850ms infinite linear;
+     -webkit-animation: three-quarters-loader 850ms infinite linear;
+     animation: three-quarters-loader 850ms infinite linear;
+     box-sizing: border-box;
+     display: inline-block;
+     position: relative;
+     overflow: hidden;
+     text-indent: -9999px;
+     width: 32px;
+     height: 32px;
+     vertical-align: middle
+ }
+
+ .c_portalResNews_list-01001021 .p_loading {
+     width: 100%;
+     height: 70px;
+     line-height: 70px;
+     text-align: center;
+ }
+
+ .c_portalResNews_list-01001021 .p_loading .iconfont:before {
+     content: "";
+     shadow-angle: 0px;
+     shadow-distance: 0px;
+     shadow-angle-ofInset: 0px;
+     shadow-distance-ofInset: 0px;
+ }
+
+ .c_portalResNews_list-01001021 .p_loading .font {
+     display: inline-block;
+     margin-left: 20px;
+     height: inherit
+ }
+
+ .c_portalResNews_list-01001021 .p_moreBox {
+     margin: 0 20px;
+     width: auto;
+     height: auto;
+     padding: 0;
+     overflow: hidden
+ }
+
+ .c_portalResNews_list-01001021 .p_ToDetail {
+     display: inline-block;
+     margin: 0;
+     padding: 5px 10px;
+     min-width: 86px;
+     text-align: center;
+     white-space: nowrap;
+     vertical-align: middle;
+ }
+
+ a>.c_portalResNews_list-01001021 .p_ToDetail:hover {
+     cursor: pointer
+ }
+
+ .c_portalResNews_list-01001021 .p_SummaryBox {
+     margin: 0;
+     width: 236px;
+     height: 317px;
+     padding: 0;
+     overflow: hidden
+ }
+
+ .c_portalResNews_list-01001021 .p_summary {
+     text-align: left;
+     vertical-align: top;
+     word-break: break-all;
+ }
+
+ .c_portalResNews_list-01001021 .p_time {
+     display: inline-block;
+     margin: 0;
+     padding: 0 5px 0 0;
+     vertical-align: middle;
+     text-align: left;
+     white-space: nowrap;
+     overflow: visible;
+     line-height: 18px;
+     vertical-align: top;
+     color: #00AEC4;
+ }
+
+ .c_portalResNews_list-01001021 .p_assist {
+     margin: 0;
+     width: 236px;
+     height: 317px;
+     padding: 0;
+     overflow: hidden
+ }
+
+ .c_portalResNews_list-01001021 .p_TitleBox {
+     width: auto;
+     height: auto;
+     padding: 10px 0;
+     overflow: hidden;
+     vertical-align: top;
+     margin-top: 15px;
+ }
+
+ .c_portalResNews_list-01001021 .p_title {
+     display: block;
+     width: 100%;
+     margin: 0;
+     padding: 0;
+     text-align: left;
+     cursor: pointer;
+     overflow: hidden;
+     color: #555;
+ }
+
+ .c_portalResNews_list-01001021 .p_header {
+     margin: 5px 0 0;
+     width: auto;
+     height: auto;
+     padding: 0;
+     overflow: hidden;
+ }
+
+ .c_portalResNews_list-01001021 .p_content {
+     margin: 0;
+     width: 236px;
+     height: 317px;
+     padding: 0;
+     overflow: hidden
+ }
+
+ .c_portalResNews_list-01001021 .p_images {
+     margin: 0;
+     width: 90%;
+     padding: 0;
+     overflow: hidden;
+     float: left;
+     box-sizing: border-box;
+     -moz-box-sizing: border-box;
+     position: relative;
+     vertical-align: middle;
+     text-align: center;
+     margin: 15px;
+     width: 25% !important;
+ }
+
+ .c_portalResNews_list-01001021 .p_images img {
+     width: 100%;
+ }
+
+ .c_portalResNews_list-01001021 .p_articles {
+     margin: 0;
+     width: calc((100% - 60px)/3);
+     height: 186px;
+     padding: 0;
+ }
+
+ .c_portalResNews_list-01001021 .p_news {
+     margin: 0;
+     width: inherit;
+     height: auto;
+     padding: 0;
+     overflow: hidden;
+     display: flex;
+     flex-wrap: wrap;
+ }
+
+ .c_portalResNews_list-01001021 .p_Newslist {
+     margin: 0;
+     padding: 0;
+     overflow: hidden;
+ }
+
+ .c_portalResNews_list-01001021 {
+     overflow: hidden;
+ }
+
+ .c_portalResNews_list-01001021 .p_content {
+     width: auto;
+     height: auto;
+     vertical-align: top;
+     padding-left: 30px;
+     padding-right: 30px;
+ }
+
+ .c_portalResNews_list-01001021 .p_SummaryBox {
+     width: auto;
+     height: auto;
+ }
+
+ .c_portalResNews_list-01001021 .p_assist {
+     width: auto;
+     height: auto;
+ }
+
+ .c_portalResNews_list-01001021 .p_icon {
+     display: inline-block;
+     vertical-align: middle;
+     margin-top: 2px
+ }
+
+ .c_portalResNews_list-01001021 .p_about {
+     display: inline-block;
+     vertical-align: middle
+ }
+
+ .c_portalResNews_list-01001021 .p_articles {
+     display: inline-block;
+     height: auto;
+     min-width: 320px;
+     width: calc((100% - 0px)/1);
+     overflow: hidden;
+     float: left;
+     border: 1px solid #ddd;
+     margin: 10px 0px;
+ }
+
+ .c_portalResNews_list-01001021 .p_thumbnail {
+     width: 100%;
+     height: auto;
+     vertical-align: middle;
+     text-align: center;
+     overflow: hidden
+ }
+
+ .c_portalResNews_list-01001021 .p_thumbnail img {
+     width: 100%;
+ }
+
+ .c_portalResNews_list-01001021 .higher .p_thumbnail {
+     position: absolute;
+     height: 100%
+ }
+
+ .c_portalResNews_list-01001021 .widther .p_thumbnail {
+     position: absolute;
+     height: 100%
+ }
+
+ .c_portalResNews_list-01001021 .smaller .p_thumbnail {
+     position: absolute;
+     height: 100%
+ }
+
+ .c_portalResNews_list-01001021 .p_assist {
+     margin-top: 2px;
+ }
+
+ .c_portalResNews_list-01001021 .p_SummaryBox {
+     clear: both;
+     margin-bottom: 10px;
+     margin-top: 8px
+ }
+
+ .c_portalResNews_list-01001021 .p_ToDetail {
+     font-size: 14px;
+     float: left;
+     position: relative;
+ }
+
+ .c_portalResNews_list-01001021 .p_summary {
+     white-space: normal;
+     color: #999;
+     font-size: 12px;
+     line-height: 180%;
+ }
+
+ .c_portalResNews_list-01001021 .p_categorySummaryBox {
+     overflow: hidden;
+     padding: 10px;
+     display: none;
+ }
+
+ @media only screen and (max-width: 768px) {
+     .c_portalResNews_list-01001021 .p_articles {
+         margin-top: 10px !important;
+         width: 100% !important;
+     }
+     .c_portalResNews_list-01001021 .mp_linkUrl {
+         display: block;
+         height: auto;
+     }
+     .c_portalResNews_list-01001021 .p_SummaryBox {
+         display: none;
+     }
+     .c_portalResNews_list-01001021 .p_ToDetail {
+         display: none !important;
+     }
+     .c_portalResNews_list-01001021 .mP_SummaryBox {
+         clear: both;
+         width: 90%;
+         margin: 0 auto;
+         padding: 10px;
+     }
+     .c_portalResNews_list-01001021 .p_Information {
+         display: flex;
+         padding: 10px 0;
+     }
+     .c_portalResNews_list-01001021 .p_Information li {
+         flex: 1;
+         height: 20px;
+         overflow: hidden;
+     }
+     .c_portalResNews_list-01001021 .p_KeyWord {
+         width: 100%;
+         margin-top: 5px;
+     }
+     .c_portalResNews_list-01001021 .p_KeyWord .p_tag {
+         padding: 5px 15px;
+         margin-right: 10px;
+         border-radius: 3px;
+     }
+     .c_portalResNews_list-01001021 .blank {
+         width: 100%;
+         height: 15px;
+         overflow: hidden;
+     }
+     .c_portalResNews_list-01001021 .p_articles {
+         border: none
+     }
+ }
+
+ @media only screen and (min-width: 769px) {
+     .c_portalResNews_list-01001021 .mp_linkUrl {
+         display: none;
+     }
+     .c_portalResNews_list-01001021 .mP_SummaryBox {
+         display: none;
+     }
+     .c_portalResNews_list-01001021 .p_Information {
+         display: none;
+     }
+     .c_portalResNews_list-01001021 .p_KeyWord {
+         display: none;
+     }
+     .c_portalResNews_list-01001021 .blank {
+         display: none;
+     }
+ }
+
+ @media only screen and (max-width: 1024px) and (min-width: 769px) {}
+
+ .c_portalResNews_list-01001021 .p_CommonSummaryBoxA {
+     text-align: center;
+ }
+
+ .c_portalResNews_list-01001021 .p_MatteIcon .iconfont:before {
+     content: '\e602';
+ }
+
+ .c_portalResNews_list-01001021>div {
+     animation-fill-mode: both;
+ }
+
+ .c_portalResNews_list-01001021 .list {
+     position: relative;
+     display: flex;
+     justify-content: center;
+     flex-wrap: wrap;
+     transition: all .5s ease;
+     background: #f9f9f9;
+ }
+
+ .c_portalResNews_list-01001021 .pic_box {
+     position: relative;
+     width: 100%;
+ }
+
+ .c_portalResNews_list-01001021 .pic {
+     width: 100%;
+     transition: all .5s ease;
+ }
+
+ .c_portalResNews_list-01001021 .content_box {
+     width: 100%;
+     padding: 1em 1.5em;
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: center;
+ }
+
+ .c_portalResNews_list-01001021 .summry {
+     font-size: 1em;
+     color: #777;
+     line-height: 2em;
+     text-align: center;
+     display: -webkit-box;
+     overflow: hidden;
+     -webkit-line-clamp: 3px;
+     -webkit-box-orient: vertical;
+     text-overflow: ellipsis;
+     width: 100%;
+ }
+
+ .c_portalResNews_list-01001021 .data {
+     position: absolute;
+     padding: 4px;
+     background: rgba(0, 0, 0, .5);
+     border: solid 1px #fff;
+     bottom: 2%;
+     right: 1%;
+     font-size: 0.75rem;
+     color: #fff;
+     font-family: 'Open Sans', sans-serif;
+ }
+
+ .c_portalResNews_list-01001021 .title {
+     width: 100%;
+     margin: 5% 0;
+     text-align: center;
+     overflow: hidden;
+     text-overflow: ellipsis;
+     white-space: nowrap;
+     font-size: 14px;
+     font-weight: 700;
+ }
+
+ .c_portalResNews_list-01001021 .more {
+     position: relative;
+     z-index: 1;
+     overflow: hidden;
+     display: inline-block;
+     border: 1px solid #999;
+     padding: .6em 1.5em;
+     color: #999;
+     font-size: 0.9em;
+     border-color: #999;
+     margin: 1.5em 0 0;
+     -webkit-transition: .5s all;
+     -moz-transition: .5s all;
+     transition: .5s all;
+ }
+
+ .c_portalResNews_list-01001021 .more_link::before,
+ .more_link::after,
+ .more::after,
+ .more::before {
+     content: '';
+     position: absolute;
+     width: 26%;
+     height: 0px;
+     background: #02e2ff;
+     z-index: -1;
+     -webkit-transition: .5s all;
+     -moz-transition: .5s all;
+     transition: .5s all;
+ }
+
+ .c_portalResNews_list-01001021 .more::before {
+     left: 0px;
+     top: 0px;
+ }
+
+ .c_portalResNews_list-01001021 .more::after {
+     left: 50%;
+     top: 0px;
+ }
+
+ .c_portalResNews_list-01001021 .more_link::before {
+     left: 25%;
+     bottom: 0px;
+ }
+
+ .c_portalResNews_list-01001021 .more_link::after {
+     left: 75%;
+     bottom: 0px;
+ }
+
+ @media only screen and (min-width:997px) {
+     .c_portalResNews_list-01001021 .list:hover {
+         box-shadow: 0 0 15px 0px #ccc;
+     }
+     .c_portalResNews_list-01001021 .pic_box:hover .pic {
+         transform: inherit;
+     }
+     .c_portalResNews_list-01001021 .more:hover {
+         color: #fff;
+     }
+     .c_portalResNews_list-01001021 .more:hover::before,
+     .more:hover:after {
+         height: 100%;
+     }
+     .c_portalResNews_list-01001021 .more:hover .more_link::before {
+         height: 100%;
+     }
+     .c_portalResNews_list-01001021 .more:hover .more_link::after {
+         height: 100%;
+     }
+ }
+
+ @media only screen and (min-width: 1200px) {
+     .c_portalResNews_list-01001021 .p_articles {
+         min-width: 0;
+         margin: 10px 10px;
+     }
+     .c_portalResNews_list-01001021 .p_articles {
+         width: calc((100% - 80px)/4);
+     }
+     .c_portalResNews_list-01001021 .summry {
+         height: 78px;
+     }
+ }
+
+ @media only screen and (max-width:1200px) and (min-width: 996px) {
+     .c_portalResNews_list-01001021 .p_articles {
+         width: 33.33%;
+     }
+     .c_portalResNews_list-01001021 .summry {
+         height: 78px;
+     }
+ }
+
+ @media only screen and (max-width:996px) and (min-width: 769px) {
+     .c_portalResNews_list-01001021 .p_articles {
+         width: calc((100% - 80px)/4);
+     }
+     .c_portalResNews_list-01001021 .summry {
+         height: 78px;
+     }
+ }
+
+ @media only screen and (max-width:768px) {
+     .c_portalResNews_list-01001021 .p_articles {
+         width: 100%;
+         margin: 0 !important;
+         padding: 10px;
+     }
+     .c_portalResNews_list-01001021 .more {
+         position: absolute;
+         top: 0;
+         left: 0;
+         bottom: 0;
+         right: 0;
+         display: block;
+         width: 100%;
+         height: 100%;
+         margin: 0;
+         border: 0;
+     }
+     .c_portalResNews_list-01001021 .more_link {
+         display: none;
+     }
+     .c_portalResNews_list-01001021 .content_box {
+         padding: 10px;
+     }
+     .c_portalResNews_list-01001021 .summry {
+         text-align: left;
+     }
+ }
+
+ .c_portalResNews_list-01001021 .p_page .pre .iconfont:before {
+     shadow-angle: 0px;
+     shadow-distance: 0px;
+     shadow-angle-ofInset: 0px;
+     shadow-distance-ofInset: 0px;
+ }
+
+ .c_portalResNews_list-01001021 .p_page .next .iconfont:before {
+     shadow-angle: 0px;
+     shadow-distance: 0px;
+     shadow-angle-ofInset: 0px;
+     shadow-distance-ofInset: 0px;
+ }
+
+ .c_portalResNews_list-01001021 .p_more .iconfont:before {
+     shadow-angle: 0px;
+     shadow-distance: 0px;
+     shadow-angle-ofInset: 0px;
+     shadow-distance-ofInset: 0px;
+ }
+
+ .c_portalResNews_list-01001021 .p_hot .iconfont:before {
+     shadow-angle: 0px;
+     shadow-distance: 0px;
+     shadow-angle-ofInset: 0px;
+     shadow-distance-ofInset: 0px;
+ }
+
+ .c_portalResNews_list-01001021 .p_new .iconfont:before {
+     shadow-angle: 0px;
+     shadow-distance: 0px;
+     shadow-angle-ofInset: 0px;
+     shadow-distance-ofInset: 0px;
+ }
+
+ @media only screen and (max-width: 768px) {
+     .c_portalResEbizads_banner-01001005 .p_prompt {
+         width: auto;
+         height: auto;
+         text-align: center;
+         background-color: inherit;
+         font-size: 16px;
+         border: 1px solid #E4E4E4;
+     }
+     .c_portalResEbizads_banner-01001005 .p_prompt .prompt_title {
+         display: inline-table;
+         padding: 0 30px;
+         height: 100%;
+         min-height: 260px;
+     }
+     .c_portalResEbizads_banner-01001005 .p_prompt .prompt_title .iconfont:before {
+         content: "";
+     }
+     .c_portalResEbizads_banner-01001005 .p_prompt .prompt_title .first {
+         height: auto;
+         display: table-cell;
+         font-size: 36px;
+         margin-right: 10px;
+         position: relative;
+         color: #09bb07;
+         vertical-align: middle;
+         padding: 0 10px 10px 0;
+     }
+     .c_portalResEbizads_banner-01001005 .p_prompt .prompt_title .first:before {
+         content: "\e6b4";
+     }
+     .c_portalResEbizads_banner-01001005 .p_prompt .prompt_title {
+         font-size: 24px;
+         text-align: left;
+         color: rgba(51, 51, 51, 1);
+         font-weight: bold;
+     }
+     .c_portalResEbizads_banner-01001005 .p_prompt .prompt_title .font {
+         display: table-cell;
+         line-height: normal;
+         vertical-align: middle;
+     }
+     .c_portalResEbizads_banner-01001005 .p_prompt .promptbox {
+         width: auto;
+         height: 100%;
+     }
+     .c_portalResEbizads_banner-01001005 .p_prompt .prompt_content {
+         font-size: 18px;
+         color: rgba(105, 105, 105, 1);
+         padding-left: 65px;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnD {
+         display: inline-block;
+         vertical-align: middle;
+         cursor: pointer;
+         font-size: 56px;
+         color: #e2e2e2;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnD .iconfont:before {
+         content: '\e687';
+         display: inline-block;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnD .font {
+         display: table;
+         width: inherit;
+         height: inherit;
+         pointer-events: none;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnC {
+         display: inline-block;
+         vertical-align: middle;
+         cursor: pointer;
+         font-size: 56px;
+         color: #e2e2e2;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnC .iconfont:before {
+         content: '\e687';
+         display: inline-block;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnC .font {
+         display: table;
+         width: inherit;
+         height: inherit;
+         pointer-events: none;
+     }
+     .c_portalResEbizads_banner-01001005 .p_ListNumBtn {
+         display: inline-table;
+         height: 30px;
+         width: 30px;
+         background-color: #67b8b4;
+         border-width: 1px;
+         border-color: transparent;
+         color: #999999;
+         font-size: 12px;
+         font-family: 'Microsoft YaHei';
+     }
+     .c_portalResEbizads_banner-01001005 .p_ListNumBtn img {
+         display: none;
+     }
+     .c_portalResEbizads_banner-01001005 .p_ListNumBtn .shape {
+         display: table-cell;
+         width: inherit;
+         height: inherit;
+         text-align: center;
+         vertical-align: middle;
+     }
+     .c_portalResEbizads_banner-01001005 .p_ListNumBtn:active {
+         color: rgba(255, 255, 255, 1);
+     }
+     .c_portalResEbizads_banner-01001005 .p_ListNumBtn.active {
+         color: rgba(255, 255, 255, 1);
+     }
+     .c_portalResEbizads_banner-01001005 .p_ListNumBtn.j-nav-active {
+         color: rgba(255, 255, 255, 1);
+     }
+     .c_portalResEbizads_banner-01001005 .p_SquareNumBtn {
+         display: inline-block;
+         height: 10px;
+         width: 100px;
+         padding: 0;
+         background-color: #f2f2f2;
+         border-width: 1px;
+         border-color: transparent;
+         font-size: 12px;
+         font-family: 'Microsoft YaHei';
+         text-align: center;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SquareNumBtn img {
+         display: none;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SquareNumBtn .shape {
+         text-indent: -9999em;
+         width: inherit;
+         height: inherit;
+         vertical-align: middle;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SquareNumBtn:active {
+         background-color: #67b8b4;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SquareNumBtn.active {
+         background-color: #67b8b4;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SquareNumBtn.j-nav-active {
+         background-color: #67b8b4;
+     }
+     .c_portalResEbizads_banner-01001005 .p_CircleNumBtn {
+         width: 15px;
+         height: 15px;
+         display: inline-table;
+         background-color: rgba(228, 228, 228, 1);
+         color: rgba(153, 153, 153, 1);
+         font-size: 12px;
+         border-radius: 10px;
+         -moz-border-radius: 10px;
+         text-align: center;
+     }
+     .c_portalResEbizads_banner-01001005 .p_CircleNumBtn img {
+         display: none;
+     }
+     .c_portalResEbizads_banner-01001005 .p_CircleNumBtn .shape {
+         width: inherit;
+         height: inherit;
+         text-indent: -99999px;
+         display: table-cell;
+         vertical-align: middle;
+         border-radius: inherit;
+         -moz-border-radius: inherit;
+     }
+     .c_portalResEbizads_banner-01001005 .p_CircleNumBtn:active {
+         background-color: rgba(105, 192, 188, 1);
+     }
+     .c_portalResEbizads_banner-01001005 .p_CircleNumBtn.active {
+         background-color: rgba(105, 192, 188, 1);
+     }
+     .c_portalResEbizads_banner-01001005 .p_CircleNumBtn.j-nav-active {
+         background-color: rgba(105, 192, 188, 1);
+     }
+     .c_portalResEbizads_banner-01001005 .p_NumBtn {
+         width: 150px;
+         height: 66px;
+         border-color: rgba(242, 242, 242, 1);
+         border-width: 2px;
+         border-style: solid;
+     }
+     .c_portalResEbizads_banner-01001005 .p_NumBtn .shape {
+         display: none;
+     }
+     .c_portalResEbizads_banner-01001005 .p_NumBtn:active {
+         border-color: rgba(103, 184, 180, 1);
+     }
+     .c_portalResEbizads_banner-01001005 .p_NumBtn.active {
+         border-color: rgba(103, 184, 180, 1);
+     }
+     .c_portalResEbizads_banner-01001005 .p_ThumbnailBox {
+         width: inherit;
+         height: auto;
+         background-color: transparent;
+         overflow: hidden;
+     }
+     .c_portalResEbizads_banner-01001005 .p_ImgSummary {
+         text-align: justify;
+         vertical-align: top;
+         word-break: break-all;
+     }
+     .c_portalResEbizads_banner-01001005 .p_ImgHead {
+         display: inline-table;
+         margin: 0;
+         padding: 0;
+         color: #323232;
+         font-size: 30px;
+         font-weight: 400;
+         text-align: left;
+         white-space: nowrap;
+         overflow: visible;
+     }
+     .c_portalResEbizads_banner-01001005 .p_ImgHead .font {
+         display: table-cell;
+         vertical-align: top;
+         line-height: 30px;
+     }
+     .c_portalResEbizads_banner-01001005 .p_ImgHead .iconfont:before {
+         content: "";
+     }
+     .c_portalResEbizads_banner-01001005 .p_TitleBox {
+         width: inherit;
+         height: auto;
+         overflow: hidden;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SummaryBox {
+         width: inherit;
+         height: auto;
+         border-width: 1px;
+         border-style: none;
+         border-color: rgba(228, 228, 228, 0);
+         background-color: rgba(179, 179, 179, 1);
+         overflow: visible;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnB {
+         background: rgba(81, 80, 80, .3);
+         width: 64px;
+         height: 139px;
+         cursor: pointer;
+         text-align: center;
+         color: rgba(255, 255, 255, 1);
+         font-size: 40px;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnB .font {
+         display: table;
+         width: inherit;
+         height: inherit;
+         pointer-events: none;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnB .iconfont {
+         display: table-cell;
+         vertical-align: middle;
+         position: relative;
+         top: 3px;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnB:hover {
+         border-width: 0;
+         border-style: solid;
+         border-color: rgba(255, 255, 255, 0);
+         background-color: rgba(115, 115, 115, .7);
+         color: rgba(106, 192, 189, 1);
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnB:active {
+         border-width: 0;
+         border-style: solid;
+         border-color: rgba(255, 255, 255, 0);
+         background-color: rgba(81, 80, 80, .7);
+     }
+     .c_portalResEbizads_banner-01001005 .p_interactionB {
+         width: inherit;
+         height: auto;
+         background-color: transparent;
+         overflow: hidden;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnA {
+         background: rgba(81, 80, 80, .3);
+         width: 64px;
+         height: 139px;
+         cursor: pointer;
+         text-align: center;
+         color: rgba(255, 255, 255, 1);
+         font-size: 40px;
+         z-index: 999;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnA .font {
+         display: table;
+         width: inherit;
+         height: inherit;
+         pointer-events: none;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnA .iconfont {
+         display: table-cell;
+         vertical-align: middle;
+         position: relative;
+         top: 3px;
+         right: 4px;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnA:hover {
+         border-width: 0;
+         border-style: solid;
+         border-color: rgba(255, 255, 255, 0);
+         background-color: rgba(115, 115, 115, .7);
+         color: rgba(106, 192, 189, 1);
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnA:active {
+         border-width: 0;
+         border-style: solid;
+         border-color: rgba(255, 255, 255, 0);
+         background-color: rgba(81, 80, 80, .7);
+     }
+     .c_portalResEbizads_banner-01001005 .p_interactionA {
+         width: inherit;
+         height: auto;
+         background-color: transparent;
+         overflow: hidden;
+     }
+     .c_portalResEbizads_banner-01001005 .p_interactionA+.p_interactionA {
+         left: initial;
+         right: 0;
+     }
+     .c_portalResEbizads_banner-01001005 .p_imageA {
+         width: auto;
+         height: auto;
+         overflow: hidden;
+     }
+     .c_portalResEbizads_banner-01001005 .p_images {
+         width: inherit;
+         height: auto;
+         background-color: transparent;
+         overflow: hidden;
+     }
+     .c_portalResEbizads_banner-01001005 .p_banner {
+         width: inherit;
+         height: auto;
+         border-width: 1px;
+         border-style: none;
+         border-color: rgba(255, 255, 255, 1);
+         background-color: transparent;
+         overflow: visible;
+     }
+     .c_portalResEbizads_banner-01001005 {
+         min-width: 300px;
+         overflow: auto;
+     }
+     .c_portalResEbizads_banner-01001005 .p_banner {
+         width: 100%;
+         height: 100%;
+         background-color: transparent;
+     }
+     .c_portalResEbizads_banner-01001005 .p_images {
+         width: auto;
+         height: auto;
+     }
+     .c_portalResEbizads_banner-01001005 .p_ThumbnailBox {
+         width: auto;
+         height: auto;
+         border-width: 0;
+         background-color: transparent;
+     }
+     .c_portalResEbizads_banner-01001005 .p_ThumbnailBoxA {
+         width: auto;
+         height: auto;
+     }
+     .c_portalResEbizads_banner-01001005 .p_interactionA {
+         width: auto;
+         height: auto;
+     }
+     .c_portalResEbizads_banner-01001005 .p_interactionB {
+         width: auto;
+         height: auto;
+     }
+     .c_portalResEbizads_banner-01001005 .p_TitleBox {
+         border-width: 0;
+     }
+     .c_portalResEbizads_banner-01001005 .p_TitleBoxA {
+         width: auto;
+         height: auto;
+         border-width: 0;
+         background-color: transparent;
+     }
+     .c_portalResEbizads_banner-01001005 .c_banner {
+         width: inherit;
+         height: inherit;
+     }
+     .c_portalResEbizads_banner-01001005 .p_images {
+         width: inherit;
+         height: inherit;
+         box-sizing: border-box;
+         -moz-box-sizing: border-box;
+     }
+     .c_portalResEbizads_banner-01001005 .p_LinkA {
+         width: inherit;
+         height: inherit;
+         display: block;
+         position: relative;
+     }
+     .c_portalResEbizads_banner-01001005 .p_imageA {
+         vertical-align: baseline;
+         text-align: center;
+         width: inherit;
+         height: inherit;
+     }
+     .c_portalResEbizads_banner-01001005 .p_imageA:hover {
+         background-color: transparent;
+     }
+     .c_portalResEbizads_banner-01001005 .p_imageA:hover:after {
+         background-color: transparent;
+     }
+     .c_portalResEbizads_banner-01001005 .p_interactionA {
+         cursor: pointer;
+         left: 0;
+         height: 100%;
+         position: absolute;
+         top: 0;
+         z-index: 99;
+         overflow: visible;
+     }
+     .c_portalResEbizads_banner-01001005 .p_interactionB {
+         cursor: pointer;
+         right: 0;
+         height: 100%;
+         position: absolute;
+         top: 0;
+         z-index: 99;
+         overflow: visible;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnA {
+         position: absolute;
+         top: 50%;
+         margin-top: -37px;
+         padding-top: 10px;
+         color: rgb(187, 182, 182);
+         left: 0;
+         width: 33px;
+         height: 64px;
+         background-color: rgba(0, 0, 0, 0.5);
+         z-index: 999;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnA .iconfont:before {
+         font-size: 30px;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnB {
+         position: absolute;
+         top: 50%;
+         margin-top: -37px;
+         right: 0;
+         width: 33px;
+         height: 64px;
+         background-color: rgba(0, 0, 0, 0.5);
+         z-index: 999;
+         padding-top: 10px;
+         color: rgb(187, 182, 182);
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnB .iconfont:before {
+         font-size: 30px;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SummaryBox {
+         width: 100%;
+         position: absolute;
+         bottom: 0;
+         left: 0;
+         z-index: 5;
+         height: 70px;
+         background-color: transparent;
+         display: none;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SummaryBox:hover {
+         background-color: transparent;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SummaryBox .p_LinkB {
+         display: block;
+         background-color: rgba(0, 0, 0, 0.5);
+     }
+     .c_portalResEbizads_banner-01001005 .p_TitleBox {
+         width: 100%;
+         height: auto;
+         height: 60px;
+         line-height: 60px;
+         padding: 0 10px;
+         position: absolute;
+         bottom: 0;
+         left: 0;
+         z-index: 999;
+         font-weight: bold;
+     }
+     .c_portalResEbizads_banner-01001005 .p_LinkA .p_TitleBox span {
+         display: block;
+         text-overflow: ellipsis;
+         white-space: nowrap;
+         overflow: hidden;
+     }
+     .c_portalResEbizads_banner-01001005 .p_LinkA:hover .p_TitleBox span {
+         color: #fff;
+     }
+     .c_portalResEbizads_banner-01001005 .p_TitleBoxA {
+         width: 100%;
+         height: inherit;
+         padding-left: 20px;
+         padding-right: 20px;
+     }
+     .c_portalResEbizads_banner-01001005 .p_ThumbnailBox {
+         position: absolute;
+         text-align: center;
+         font-size: 0;
+         z-index: 6;
+         overflow: hidden;
+         -webkit-transform: translate(0, -50%);
+         transform: translate(0, -50%);
+     }
+     .c_portalResEbizads_banner-01001005 .p_ThumbnailBoxA {
+         padding-right: 30px;
+         padding-left: 30px;
+         width: 100%;
+         position: absolute;
+         right: 0;
+         bottom: 0;
+         text-align: right;
+         font-size: 0;
+         z-index: 6;
+         overflow: hidden;
+     }
+     .c_portalResEbizads_banner-01001005 .p_ThumbnailBox .p_NumBtn:first-child {
+         margin-left: 0;
+     }
+     .c_portalResEbizads_banner-01001005 .p_NumBtn {
+         margin-right: 6px;
+         font-size: 0;
+         width: 90px;
+         height: auto;
+         display: inline-block;
+         overflow: hidden;
+     }
+     .c_portalResEbizads_banner-01001005 .p_CircleNumBtn {
+         margin-left: 10px;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SquareNumBtn {
+         margin-left: 10px;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnC {
+         position: absolute;
+         top: 50%;
+         left: 0;
+         cursor: pointer;
+         -webkit-transform: translate(0, -50%);
+         transform: translate(0, -50%);
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnD {
+         position: absolute;
+         top: 50%;
+         right: 0;
+         cursor: pointer;
+         -webkit-transform: translate(0, -50%);
+         transform: translate(0, -50%);
+     }
+     .c_portalResEbizads_banner-01001005 .p_CircleNumBtn,
+     .c_portalResEbizads_banner-01001005 .p_SquareNumBtn,
+     .c_portalResEbizads_banner-01001005 .p_ListNumBtn {
+         margin-top: 20px;
+         margin-bottom: 20px;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SquareNumBtn {
+         width: 98px;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnD .iconfont:before {
+         content: "\e6ae";
+         font-size: 30px;
+     }
+     .c_portalResEbizads_banner-01001005 .p_ImgSummary {
+         font-weight: normal;
+         white-space: normal;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnC .iconfont {
+         font-size: 30px;
+         color: rgba(255, 255, 255, .6);
+         display: table-cell;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnD .iconfont {
+         font-size: 30px;
+         color: rgba(255, 255, 255, .6);
+         display: table-cell;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnC:hover .iconfont {
+         color: rgba(105, 192, 188, 1);
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnD:hover .iconfont {
+         color: rgba(105, 192, 188, 1);
+     }
+     .c_portalResEbizads_banner-01001005 .p_NumBtn:hover {
+         border-color: rgba(103, 184, 180, 1);
+     }
+     .c_portalResEbizads_banner-01001005 .swiper-container {
+         margin: 0 auto;
+         position: relative;
+         overflow: hidden;
+         z-index: 1;
+         height: 100%;
+     }
+     .swiper-wrapper {
+         position: relative;
+         width: 100%;
+         height: 100%;
+         z-index: 1;
+         display: -webkit-box;
+         display: -moz-box;
+         display: -ms-flexbox;
+         display: -webkit-flex;
+         display: flex;
+         -webkit-transition-property: -webkit-transform;
+         -moz-transition-property: -moz-transform;
+         -o-transition-property: -o-transform;
+         -ms-transition-property: -ms-transform;
+         transition-property: transform;
+         -webkit-box-sizing: content-box;
+         -moz-box-sizing: content-box;
+         box-sizing: content-box;
+     }
+     .swiper-container-android .swiper-slide,
+     .swiper-wrapper {
+         -webkit-transform: translate3d(0px, 0, 0);
+         -moz-transform: translate3d(0px, 0, 0);
+         -o-transform: translate(0px, 0px);
+         -ms-transform: translate3d(0px, 0, 0);
+         transform: translate3d(0px, 0, 0);
+     }
+     .swiper-slide {
+         -webkit-flex-shrink: 0;
+         -ms-flex: 0 0 auto;
+         flex-shrink: 0;
+         width: 100%;
+         height: 100%;
+         position: relative;
+     }
+     .c_portalResEbizads_banner-01001005 .p_MatteIcon:before {
+         content: '\e752';
+         .
+     }
+     .c_portalResEbizads_banner-01001005 .widther img {
+         width: auto !important;
+     }
+     .c_portalResEbizads_banner-01001005 .swiper-pagination {
+         position: absolute;
+         z-index: 20;
+         bottom: 65px;
+         width: 100%;
+         text-align: center;
+     }
+     .c_portalResEbizads_banner-01001005 .dot {
+         width: 20px;
+         height: 20px;
+     }
+     .c_portalResEbizads_banner-01001005 .swiper-pagination span {
+         display: inline-block;
+         margin-right: 4px;
+     }
+     .c_portalResEbizads_banner-01001005 .background_default {
+         display: inline-block;
+         width: 27px;
+         height: 27px;
+         border-radius: 50%;
+         margin: 0 5px;
+         opacity: 0.8;
+         cursor: pointer;
+     }
+     .c_portalResEbizads_banner-01001005 .swiper-wrapper .swiper-slide img {
+         transform: translate(-50%, -50%);
+         position: absolute;
+         top: 50%;
+         left: 50%;
+         max-width: 100%;
+     }
+     .c_portalResEbizads_banner-01001005 .background_default {
+         width: 17px;
+         height: 17px;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnA {
+         display: none;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnB {
+         display: none;
+     }
+ }
+
+ @media only screen and (min-width: 769px) {
+     .c_portalResEbizads_banner-01001005 .p_prompt {
+         width: auto;
+         height: auto;
+         text-align: center;
+         background-color: inherit;
+         font-size: 16px;
+         border: 1px solid #E4E4E4;
+     }
+     .c_portalResEbizads_banner-01001005 .p_prompt .prompt_title {
+         display: inline-table;
+         padding: 0 30px;
+         height: 100%;
+         min-height: 260px;
+     }
+     .c_portalResEbizads_banner-01001005 .p_prompt .prompt_title .iconfont:before {
+         content: "";
+     }
+     .c_portalResEbizads_banner-01001005 .p_prompt .prompt_title .first {
+         height: auto;
+         display: table-cell;
+         font-size: 36px;
+         margin-right: 10px;
+         position: relative;
+         color: #09bb07;
+         vertical-align: middle;
+         padding: 0 10px 10px 0;
+     }
+     .c_portalResEbizads_banner-01001005 .p_prompt .prompt_title .first:before {
+         content: "\e6b4";
+     }
+     .c_portalResEbizads_banner-01001005 .p_prompt .prompt_title {
+         font-size: 24px;
+         text-align: left;
+         color: rgba(51, 51, 51, 1);
+         font-weight: bold;
+     }
+     .c_portalResEbizads_banner-01001005 .p_prompt .prompt_title .font {
+         display: table-cell;
+         line-height: normal;
+         vertical-align: middle;
+     }
+     .c_portalResEbizads_banner-01001005 .p_prompt .promptbox {
+         width: auto;
+         height: 100%;
+     }
+     .c_portalResEbizads_banner-01001005 .p_prompt .prompt_content {
+         font-size: 18px;
+         color: rgba(105, 105, 105, 1);
+         padding-left: 65px;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnD {
+         display: inline-block;
+         vertical-align: middle;
+         cursor: pointer;
+         font-size: 56px;
+         color: #e2e2e2;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnD .iconfont:before {
+         content: '\e687';
+         display: inline-block;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnD .font {
+         display: table;
+         width: inherit;
+         height: inherit;
+         pointer-events: none;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnC {
+         display: inline-block;
+         vertical-align: middle;
+         cursor: pointer;
+         font-size: 56px;
+         color: #e2e2e2;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnC .iconfont:before {
+         content: '\e687';
+         display: inline-block;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnC .font {
+         display: table;
+         width: inherit;
+         height: inherit;
+         pointer-events: none;
+     }
+     .c_portalResEbizads_banner-01001005 .p_ListNumBtn {
+         display: inline-table;
+         height: 30px;
+         width: 30px;
+         background-color: #67b8b4;
+         border-width: 1px;
+         border-color: transparent;
+         color: #999999;
+         font-size: 12px;
+         font-family: 'Microsoft YaHei';
+     }
+     .c_portalResEbizads_banner-01001005 .p_ListNumBtn img {
+         display: none;
+     }
+     .c_portalResEbizads_banner-01001005 .p_ListNumBtn .shape {
+         display: table-cell;
+         width: inherit;
+         height: inherit;
+         text-align: center;
+         vertical-align: middle;
+     }
+     .c_portalResEbizads_banner-01001005 .p_ListNumBtn:active {
+         color: rgba(255, 255, 255, 1);
+     }
+     .c_portalResEbizads_banner-01001005 .p_ListNumBtn.active {
+         color: rgba(255, 255, 255, 1);
+     }
+     .c_portalResEbizads_banner-01001005 .p_ListNumBtn.j-nav-active {
+         color: rgba(255, 255, 255, 1);
+     }
+     .c_portalResEbizads_banner-01001005 .p_SquareNumBtn {
+         display: inline-block;
+         height: 10px;
+         width: 100px;
+         padding: 0;
+         background-color: #f2f2f2;
+         border-width: 1px;
+         border-color: transparent;
+         font-size: 12px;
+         font-family: 'Microsoft YaHei';
+         text-align: center;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SquareNumBtn img {
+         display: none;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SquareNumBtn .shape {
+         text-indent: -9999em;
+         width: inherit;
+         height: inherit;
+         vertical-align: middle;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SquareNumBtn:active {
+         background-color: #67b8b4;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SquareNumBtn.active {
+         background-color: #67b8b4;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SquareNumBtn.j-nav-active {
+         background-color: #67b8b4;
+     }
+     .c_portalResEbizads_banner-01001005 .p_CircleNumBtn {
+         width: 15px;
+         height: 15px;
+         display: inline-table;
+         background-color: rgba(228, 228, 228, 1);
+         color: rgba(153, 153, 153, 1);
+         font-size: 12px;
+         border-radius: 10px;
+         -moz-border-radius: 10px;
+         text-align: center;
+     }
+     .c_portalResEbizads_banner-01001005 .p_CircleNumBtn img {
+         display: none;
+     }
+     .c_portalResEbizads_banner-01001005 .p_CircleNumBtn .shape {
+         width: inherit;
+         height: inherit;
+         text-indent: -99999px;
+         display: table-cell;
+         vertical-align: middle;
+         border-radius: inherit;
+         -moz-border-radius: inherit;
+     }
+     .c_portalResEbizads_banner-01001005 .p_CircleNumBtn:active {
+         background-color: rgba(105, 192, 188, 1);
+     }
+     .c_portalResEbizads_banner-01001005 .p_CircleNumBtn.active {
+         background-color: rgba(105, 192, 188, 1);
+     }
+     .c_portalResEbizads_banner-01001005 .p_CircleNumBtn.j-nav-active {
+         background-color: rgba(105, 192, 188, 1);
+     }
+     .c_portalResEbizads_banner-01001005 .p_NumBtn {
+         width: 150px;
+         height: 66px;
+         border-color: rgba(242, 242, 242, 1);
+         border-width: 2px;
+         border-style: solid;
+     }
+     .c_portalResEbizads_banner-01001005 .p_NumBtn .shape {
+         display: none;
+     }
+     .c_portalResEbizads_banner-01001005 .p_NumBtn:active {
+         border-color: rgba(103, 184, 180, 1);
+     }
+     .c_portalResEbizads_banner-01001005 .p_NumBtn.active {
+         border-color: rgba(103, 184, 180, 1);
+     }
+     .c_portalResEbizads_banner-01001005 .p_ThumbnailBox {
+         width: inherit;
+         height: auto;
+         background-color: transparent;
+         overflow: hidden;
+     }
+     .c_portalResEbizads_banner-01001005 .p_ImgSummary {
+         text-align: justify;
+         vertical-align: top;
+         word-break: break-all;
+     }
+     .c_portalResEbizads_banner-01001005 .p_ImgHead {
+         display: inline-table;
+         margin: 0;
+         padding: 0;
+         color: #323232;
+         font-size: 30px;
+         font-weight: 400;
+         text-align: left;
+         white-space: nowrap;
+         overflow: visible;
+     }
+     .c_portalResEbizads_banner-01001005 .p_ImgHead .font {
+         display: table-cell;
+         vertical-align: top;
+         line-height: 30px;
+     }
+     .c_portalResEbizads_banner-01001005 .p_ImgHead .iconfont:before {
+         content: "";
+     }
+     .c_portalResEbizads_banner-01001005 .p_TitleBox {
+         width: inherit;
+         height: auto;
+         overflow: hidden;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SummaryBox {
+         width: inherit;
+         height: auto;
+         border-width: 1px;
+         border-style: none;
+         border-color: rgba(228, 228, 228, 0);
+         background-color: rgba(179, 179, 179, 1);
+         overflow: visible;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnB {
+         background: rgba(81, 80, 80, .3);
+         width: 64px;
+         height: 139px;
+         cursor: pointer;
+         text-align: center;
+         color: rgba(255, 255, 255, 1);
+         font-size: 40px;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnB .font {
+         display: table;
+         width: inherit;
+         height: inherit;
+         pointer-events: none;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnB .iconfont {
+         display: table-cell;
+         vertical-align: middle;
+         position: relative;
+         top: 3px;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnB:hover {
+         border-width: 0;
+         border-style: solid;
+         border-color: rgba(255, 255, 255, 0);
+         background-color: rgba(115, 115, 115, .7);
+         color: rgba(106, 192, 189, 1);
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnB:active {
+         border-width: 0;
+         border-style: solid;
+         border-color: rgba(255, 255, 255, 0);
+         background-color: rgba(81, 80, 80, .7);
+     }
+     .c_portalResEbizads_banner-01001005 .p_interactionB {
+         width: inherit;
+         height: auto;
+         background-color: transparent;
+         overflow: hidden;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnA {
+         background: rgba(81, 80, 80, .3);
+         width: 64px;
+         height: 139px;
+         cursor: pointer;
+         text-align: center;
+         color: rgba(255, 255, 255, 1);
+         font-size: 40px;
+         z-index: 999;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnA .font {
+         display: table;
+         width: inherit;
+         height: inherit;
+         pointer-events: none;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnA .iconfont {
+         display: table-cell;
+         vertical-align: middle;
+         position: relative;
+         top: 3px;
+         right: 4px;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnA:hover {
+         border-width: 0;
+         border-style: solid;
+         border-color: rgba(255, 255, 255, 0);
+         background-color: rgba(115, 115, 115, .7);
+         color: rgba(106, 192, 189, 1);
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnA:active {
+         border-width: 0;
+         border-style: solid;
+         border-color: rgba(255, 255, 255, 0);
+         background-color: rgba(81, 80, 80, .7);
+     }
+     .c_portalResEbizads_banner-01001005 .p_interactionA {
+         width: inherit;
+         height: auto;
+         background-color: transparent;
+         overflow: hidden;
+     }
+     .c_portalResEbizads_banner-01001005 .p_interactionA+.p_interactionA {
+         left: initial;
+         right: 0;
+     }
+     .c_portalResEbizads_banner-01001005 .p_imageA {
+         width: auto;
+         height: auto;
+         overflow: hidden;
+     }
+     .c_portalResEbizads_banner-01001005 .p_images {
+         width: inherit;
+         height: auto;
+         background-color: transparent;
+         overflow: hidden;
+     }
+     .c_portalResEbizads_banner-01001005 .p_banner {
+         width: inherit;
+         height: auto;
+         border-width: 1px;
+         border-style: none;
+         border-color: rgba(255, 255, 255, 1);
+         background-color: transparent;
+         overflow: visible;
+     }
+     .c_portalResEbizads_banner-01001005 {
+         min-width: 300px;
+         overflow: auto;
+     }
+     .c_portalResEbizads_banner-01001005 .p_banner {
+         width: 100%;
+         height: 100%;
+         background-color: transparent;
+     }
+     .c_portalResEbizads_banner-01001005 .p_images {
+         width: auto;
+         height: auto;
+     }
+     .c_portalResEbizads_banner-01001005 .p_ThumbnailBox {
+         width: auto;
+         height: auto;
+         border-width: 0;
+         background-color: transparent;
+     }
+     .c_portalResEbizads_banner-01001005 .p_ThumbnailBoxA {
+         width: auto;
+         height: auto;
+     }
+     .c_portalResEbizads_banner-01001005 .p_interactionA {
+         width: auto;
+         height: auto;
+     }
+     .c_portalResEbizads_banner-01001005 .p_interactionB {
+         width: auto;
+         height: auto;
+     }
+     .c_portalResEbizads_banner-01001005 .p_TitleBox {
+         border-width: 0;
+     }
+     .c_portalResEbizads_banner-01001005 .p_TitleBoxA {
+         width: auto;
+         height: auto;
+         border-width: 0;
+         background-color: transparent;
+     }
+     .c_portalResEbizads_banner-01001005 .c_banner {
+         width: inherit;
+         height: inherit;
+     }
+     .c_portalResEbizads_banner-01001005 .p_images {
+         width: inherit;
+         height: inherit;
+         box-sizing: border-box;
+         -moz-box-sizing: border-box;
+     }
+     .c_portalResEbizads_banner-01001005 .p_LinkA {
+         width: inherit;
+         height: inherit;
+         display: block;
+         position: relative;
+     }
+     .c_portalResEbizads_banner-01001005 .p_imageA {
+         vertical-align: baseline;
+         text-align: center;
+         width: inherit;
+         height: inherit;
+     }
+     .c_portalResEbizads_banner-01001005 .p_imageA:hover {
+         background-color: transparent;
+     }
+     .c_portalResEbizads_banner-01001005 .p_imageA:hover:after {
+         background-color: transparent;
+     }
+     .c_portalResEbizads_banner-01001005 .p_interactionA {
+         cursor: pointer;
+         left: 0;
+         height: 100%;
+         position: absolute;
+         top: 0;
+         z-index: 99;
+         overflow: visible;
+     }
+     .c_portalResEbizads_banner-01001005 .p_interactionB {
+         cursor: pointer;
+         right: 0;
+         height: 100%;
+         position: absolute;
+         top: 0;
+         z-index: 99;
+         overflow: visible;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnA {
+         position: absolute;
+         top: 50%;
+         margin-top: -37px;
+         padding-top: 10px;
+         color: rgb(187, 182, 182);
+         left: 0;
+         width: 33px;
+         height: 64px;
+         background-color: rgba(0, 0, 0, 0.5);
+         z-index: 999;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnA .iconfont:before {
+         font-size: 30px;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnB {
+         position: absolute;
+         top: 50%;
+         margin-top: -37px;
+         right: 0;
+         width: 33px;
+         height: 64px;
+         background-color: rgba(0, 0, 0, 0.5);
+         z-index: 999;
+         padding-top: 10px;
+         color: rgb(187, 182, 182);
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnB .iconfont:before {
+         font-size: 30px;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SummaryBox {
+         width: 100%;
+         position: absolute;
+         bottom: 0;
+         left: 0;
+         z-index: 5;
+         height: 70px;
+         background-color: transparent;
+         display: none;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SummaryBox:hover {
+         background-color: transparent;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SummaryBox .p_LinkB {
+         display: block;
+         background-color: rgba(0, 0, 0, 0.5);
+     }
+     .c_portalResEbizads_banner-01001005 .p_TitleBox {
+         width: 100%;
+         height: auto;
+         height: 80px;
+         padding: 10px;
+         position: absolute;
+         bottom: 0;
+         left: 0;
+         z-index: 999;
+         font-weight: bold;
+     }
+     .c_portalResEbizads_banner-01001005 .p_LinkA .p_TitleBox span {
+         display: block;
+         height: 25px;
+         text-overflow: ellipsis;
+         white-space: nowrap;
+         overflow: hidden;
+         margin-top: 15px;
+     }
+     .c_portalResEbizads_banner-01001005 .p_LinkA:hover .p_TitleBox span {
+         color: #fff;
+     }
+     .c_portalResEbizads_banner-01001005 .p_TitleBoxA {
+         width: 100%;
+         height: inherit;
+         padding-left: 20px;
+         padding-right: 20px;
+     }
+     .c_portalResEbizads_banner-01001005 .p_ImgHead {
+         padding-top: 10px;
+         padding-bottom: 12px;
+         font-size: 30px;
+         font-weight: normal;
+         font-family: "é»‘ä½“";
+         color: #fff;
+         white-space: normal;
+     }
+     .c_portalResEbizads_banner-01001005 .p_ThumbnailBox {
+         position: absolute;
+         text-align: center;
+         font-size: 0;
+         z-index: 6;
+         overflow: hidden;
+         -webkit-transform: translate(0, -50%);
+         transform: translate(0, -50%);
+     }
+     .c_portalResEbizads_banner-01001005 .p_ThumbnailBoxA {
+         padding-right: 30px;
+         padding-left: 30px;
+         width: 100%;
+         position: absolute;
+         right: 0;
+         bottom: 0;
+         text-align: right;
+         font-size: 0;
+         z-index: 6;
+         overflow: hidden;
+     }
+     .c_portalResEbizads_banner-01001005 .p_ThumbnailBox .p_NumBtn:first-child {
+         margin-left: 0;
+     }
+     .c_portalResEbizads_banner-01001005 .p_NumBtn {
+         margin-right: 6px;
+         font-size: 0;
+         width: 90px;
+         height: auto;
+         display: inline-block;
+         overflow: hidden;
+     }
+     .c_portalResEbizads_banner-01001005 .p_CircleNumBtn {
+         margin-left: 10px;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SquareNumBtn {
+         margin-left: 10px;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnC {
+         position: absolute;
+         top: 50%;
+         left: 0;
+         cursor: pointer;
+         -webkit-transform: translate(0, -50%);
+         transform: translate(0, -50%);
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnD {
+         position: absolute;
+         top: 50%;
+         right: 0;
+         cursor: pointer;
+         -webkit-transform: translate(0, -50%);
+         transform: translate(0, -50%);
+     }
+     .c_portalResEbizads_banner-01001005 .p_CircleNumBtn,
+     .c_portalResEbizads_banner-01001005 .p_SquareNumBtn,
+     .c_portalResEbizads_banner-01001005 .p_ListNumBtn {
+         margin-top: 20px;
+         margin-bottom: 20px;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SquareNumBtn {
+         width: 98px;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnD .iconfont:before {
+         content: "\e6ae";
+         font-size: 30px;
+     }
+     .c_portalResEbizads_banner-01001005 .p_ImgSummary {
+         font-weight: normal;
+         white-space: normal;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnC .iconfont {
+         font-size: 30px;
+         color: rgba(255, 255, 255, .6);
+         display: table-cell;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnD .iconfont {
+         font-size: 30px;
+         color: rgba(255, 255, 255, .6);
+         display: table-cell;
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnC:hover .iconfont {
+         color: rgba(105, 192, 188, 1);
+     }
+     .c_portalResEbizads_banner-01001005 .p_SwitchBtnD:hover .iconfont {
+         color: rgba(105, 192, 188, 1);
+     }
+     .c_portalResEbizads_banner-01001005 .p_NumBtn:hover {
+         border-color: rgba(103, 184, 180, 1);
+     }
+     .c_portalResEbizads_banner-01001005 .swiper-container {
+         margin: 0 auto;
+         position: relative;
+         overflow: hidden;
+         z-index: 1;
+         height: 100%;
+     }
+     .swiper-wrapper {
+         position: relative;
+         width: 100%;
+         height: 100%;
+         z-index: 1;
+         display: -webkit-box;
+         display: -moz-box;
+         display: -ms-flexbox;
+         display: -webkit-flex;
+         display: flex;
+         -webkit-transition-property: -webkit-transform;
+         -moz-transition-property: -moz-transform;
+         -o-transition-property: -o-transform;
+         -ms-transition-property: -ms-transform;
+         transition-property: transform;
+         -webkit-box-sizing: content-box;
+         -moz-box-sizing: content-box;
+         box-sizing: content-box;
+     }
+     .swiper-container-android .swiper-slide,
+     .swiper-wrapper {
+         -webkit-transform: translate3d(0px, 0, 0);
+         -moz-transform: translate3d(0px, 0, 0);
+         -o-transform: translate(0px, 0px);
+         -ms-transform: translate3d(0px, 0, 0);
+         transform: translate3d(0px, 0, 0);
+     }
+     .swiper-slide {
+         -webkit-flex-shrink: 0;
+         -ms-flex: 0 0 auto;
+         flex-shrink: 0;
+         width: 100%;
+         height: 100%;
+         position: relative;
+     }
+     .c_portalResEbizads_banner-01001005 .p_MatteIcon:before {
+         content: '\e752';
+         .
+     }
+     .c_portalResEbizads_banner-01001005 .widther img {
+         width: auto !important;
+     }
+     .c_portalResEbizads_banner-01001005 .swiper-pagination {
+         position: absolute;
+         z-index: 20;
+         bottom: 80px;
+         width: 100%;
+         text-align: center;
+     }
+     .c_portalResEbizads_banner-01001005 .swiper-pagination span {
+         display: inline-block;
+         margin-right: 4px;
+     }
+     .c_portalResEbizads_banner-01001005 .background_default {
+         display: inline-block;
+         width: 27px;
+         height: 27px;
+         border-radius: 50%;
+         margin: 0 5px;
+         opacity: 0.8;
+         cursor: pointer;
+     }
+     .c_portalResEbizads_banner-01001005 .swiper-wrapper .swiper-slide img {
+         transform: translate(-50%, -50%);
+         position: absolute;
+         top: 50%;
+         left: 50%;
+         max-width: 100%;
+     }
+ }
+
+ @media only screen and (max-width: 1024px) and (min-width: 769px) {}
+
+ .c_portalResEbizads_banner-01001005 .p_MatteIcon .iconfont:before {
+     content: '\e602';
+ }
+
+ .c_portalResEbizads_banner-01001005>div {
+     animation-fill-mode: both;
+ }
+
+ .c_portalResEbizads_banner-01001005 .subpage_ad {
+     position: relative;
+     height: 400px;
+     overflow: hidden;
+ }
+
+ .c_portalResEbizads_banner-01001005 .bgimg {
+     position: absolute;
+     top: 0px;
+     bottom: 0px;
+     left: 0px;
+     right: 0px;
+     background: no-repeat center/cover;
+ }
+
+ .c_portalResEbizads_banner-01001005 .mobitem {
+     display: none;
+ }
+
+ .c_portalResEbizads_banner-01001005 .subpage_ad .text {
+     position: absolute;
+     width: 90%;
+     color: #fff;
+     text-align: center;
+     top: 48%;
+     left: 5%;
+     line-height: 1.6;
+     transform: translate(0, -50%);
+     z-index: 4;
+ }
+
+ .c_portalResEbizads_banner-01001005 .capitalize {
+     text-transform: capitalize;
+ }
+
+ .c_portalResEbizads_banner-01001005 .subpage_ad .ad-tit {
+     font-size: 36px;
+     font-weight: normal;
+ }
+
+ .c_portalResEbizads_banner-01001005 .subpage_ad .ad-line {
+     height: 2px;
+     width: 3%;
+     background: #fff;
+     margin: 0.8% auto;
+ }
+
+ .c_portalResEbizads_banner-01001005 .subpage_ad .ad-sum {
+     font-size: 18px;
+     font-weight: normal;
+ }
+
+ @media only screen and (max-width: 1200px) and (min-width: 1025px) {
+     .c_portalResEbizads_banner-01001005 .subpage_ad {
+         height: 450px;
+     }
+     .c_portalResEbizads_banner-01001005 .subpage_ad .ad-tit {
+         font-size: 30px;
+     }
+     .c_portalResEbizads_banner-01001005 .subpage_ad .ad-sum {
+         font-size: 16px;
+     }
+ }
+
+ @media only screen and (max-width: 1024px) and (min-width: 769px) {
+     .c_portalResEbizads_banner-01001005 .subpage_ad {
+         height: 400px;
+     }
+     .c_portalResEbizads_banner-01001005 .subpage_ad .ad-tit {
+         font-size: 30px;
+     }
+     .c_portalResEbizads_banner-01001005 .subpage_ad .ad-sum {
+         font-size: 16px;
+     }
+ }
+
+ @media only screen and (max-width: 768px) {
+     .c_portalResEbizads_banner-01001005 .subpage_ad {
+         height: 25vh;
+     }
+     .c_portalResEbizads_banner-01001005 .pcitem {
+         display: none !important;
+     }
+     .c_portalResEbizads_banner-01001005 .mobitem {
+         display: block;
+     }
+     .c_portalResEbizads_banner-01001005 .subpage_ad .text {
+         top: 49%;
+     }
+     .c_portalResEbizads_banner-01001005 .subpage_ad .ad-tit {
+         font-size: 26px;
+         font-weight: bold;
+     }
+     .c_portalResEbizads_banner-01001005 .subpage_ad .ad-sum {
+         font-size: 14px;
+     }
+ }
+
+ @media only screen and (max-width: 768px) {
+     .c_portalResIntro_category-01001001 {
+         height: auto;
+         width: 280px;
+         overflow: visible;
+         max-width: 1180px;
+         min-height: 192px;
+         margin-left: 0;
+         margin-right: 0;
+     }
+     .c_portalResIntro_category-01001001 .p_image {
+         width: 30px;
+         height: 30px;
+         display: inline-block;
+         vertical-align: middle;
+         margin-right: 5px;
+         margin-top: 6px;
+         display: none;
+     }
+     .p_categoryBox .p_linkBox.clicka {
+         background-color: #E80015 !important;
+         color: #fff !important;
+         border-radius: 0px !important;
+     }
+     .c_portalResIntro_category-01001001 .p_image>img {
+         width: 100%;
+         height: 100%;
+     }
+ }
+
+ @media only screen and (min-width: 769px) {
+     .c_portalResIntro_category-01001001 .p_btn-show,
+     .c_portalResIntro_category-01001001 .p_btn-hide {
+         display: none;
+     }
+     .c_portalResIntro_category-01001001 {
+         height: auto;
+         width: 280px;
+         overflow: visible;
+         max-width: 1180px;
+         min-height: 192px;
+         margin-left: 0;
+         margin-right: 0;
+     }
+     .c_portalResIntro_category-01001001 .p_category {
+         height: 100%;
+         width: 100%;
+         position: relative;
+     }
+     .c_portalResIntro_category-01001001 .p_categoryBox {
+         line-height: 24px;
+         text-align: center;
+         background: transparent;
+     }
+     .c_portalResIntro_category-01001001 .p_categoryBox .p_linkBox {
+         width: 100%;
+         display: -webkit-box;
+         display: -webkit-flex;
+         display: -moz-box;
+         display: -moz-flex;
+         display: -ms-flexbox;
+         display: flex;
+         align-items: center;
+         background: #EBEBEB;
+     }
+     .c_portalResIntro_category-01001001 .p_categoryBox .p_title {
+         height: auto;
+         width: auto;
+         display: block;
+         overflow: hidden;
+         padding: 10px 50px;
+         color: #333;
+         font-size: 16px;
+     }
+     .c_portalResIntro_category-01001001 .p_categoryBtn {
+         display: inline-block;
+         vertical-align: middle;
+         background-color: #f6f6f6;
+         border-color: rgba(255, 255, 255, 0);
+         border-style: solid;
+         border-width: 0;
+         height: auto;
+         width: 30px;
+         padding: 0;
+         position: static;
+         text-align: center;
+         display: none;
+     }
+     .c_portalResIntro_category-01001001 .p_linkBox .iconfont:before {
+         content: '';
+     }
+     .c_portalResIntro_category-01001001 .p_linkBox .icon-arrow_up:before {
+         content: '\e6c9';
+     }
+     .c_portalResIntro_category-01001001 .p_linkBox .icon-arrow_down:before {
+         content: '\e6c8';
+     }
+     .mouse_bac:hover .p_categoryBtn {
+         color: #60a9d7;
+     }
+     .c_portalResIntro_category-01001001 .p_categoryBox .p_childBox {}
+     .c_portalResIntro_category-01001001 .p_categoryBox .p_parentBox {
+         position: relative;
+         display: inline-block;
+         margin: 0px 2px;
+     }
+     .c_portalResIntro_category-01001001 .p_categoryBox .p_parentBox .p_parentBox {
+         padding-left: 18px;
+     }
+     .c_portalResIntro_category-01001001 .p_parentBox:last-child .p_linkBox {
+         border-bottom: 0 none;
+     }
+     .c_portalResIntro_category-01001001 .p_categoryBox .slideOut {
+         position: absolute;
+         left: 100%;
+         top: 0;
+         width: 100%;
+         height: auto;
+     }
+     .c_portalResIntro_category-01001001 .p_image {
+         width: 30px;
+         height: 30px;
+         vertical-align: middle;
+         margin-right: 5px;
+         display: none;
+     }
+     .c_portalResIntro_category-01001001 .p_image>img {
+         width: 100%;
+         height: 100%;
+     }
+ }
+
+ @media only screen and (min-width: 769px) and (max-width: 1024px) {}
+
+ .c_portalResIntro_category-01001001 .p_MatteIcon .iconfont:before {
+     content: '\e602';
+ }
+
+ .c_portalResIntro_category-01001001>div {
+     animation-fill-mode: both;
+ }
+
+ .c_portalResIntro_category-01001001 .p_categoryBox .p_linkBox.click .color_assist,
+ .c_portalResIntro_category-01001001 .p_categoryBox .p_linkBox.click a {
+     color: #666 !important;
+ }
+
+ .c_portalResIntro_category-01001001 .p_categoryBox .p_linkBox.click {
+     background-color: #f6f6f6 !important;
+     color: #666 !important;
+ }
+
+ .c_portalResIntro_category-01001001 .p_categoryBox .p_linkBox.clicka .color_assist,
+ .c_portalResIntro_category-01001001 .p_categoryBox .p_linkBox.clicka a {
+     color: #fff !important;
+ }
+
+ .c_portalResIntro_category-01001001 .p_categoryBox .p_linkBox.clicka {
+     background-color: #135B9E !important;
+     color: #fff !important;
+ }
+
+ .c_portalResIntro_category-01001001 .p_categoryBox .p_linkBox:hover {
+     background-color: #0054A6 !important;
+     color: #fff !important;
+ }
+
+ .c_portalResIntro_category-01001001 .p_categoryBox .p_linkBox:hover a {
+     color: #fff !important;
+ }
+
+ .w_grid-000 {
+     margin-left: auto;
+     margin-right: auto;
+     min-height: 12rem;
+     width: 100%;
+ }
+
+ .w_grid-000>.w_grid {
+     width: 100%;
+     position: relative;
+ }
+
+ .w_grid-000>div>.p_gridbox {
+     width: 100%;
+     overflow: hidden;
+     position: static;
+ }
+
+ .w_grid-000>div>div>.p_gridCell {
+     float: left;
+     position: static;
+ }
+
+ .w_grid-000>div>div>.p_gridCell:not(:empty):before {
+     content: '';
+     height: 0.1px;
+     display: block;
+ }
+
+ .w_grid-000>.w_grid.signal {
+     min-height: inherit;
+ }
+
+ .w_grid-000>.w_grid.signal>.p_gridbox {
+     min-height: inherit;
+ }
+
+ .w_grid-000>.w_grid.signal>.p_gridbox>.p_gridCell {
+     min-height: inherit;
+ }
+
+ .w_grid-000>div>.p_gridbox>.p_gridCell:first-child {
+     margin-left: 0;
+     clear: left;
+ }
+
+ #w_grid-000>div>.p_gridbox>.p_gridCell:nth-child(n+1) {
+     margin-left: 0;
+     clear: left;
+ }
+
+ @media only screen and (max-width: 768px) {
+     .w_grid-000>div>.p_gridbox>.p_gridCell {
+         width: 100%;
+         margin-left: 0;
+         margin-top: 0rem;
+         margin-bottom: 0rem;
+     }
+ }
+
+ @media only screen and (min-width: 769px) {
+     .w_grid-000>div>.p_gridbox>.p_gridCell:first-child {
+         width: 100%;
+         margin-left: 0;
+         margin-top: 0rem;
+         margin-bottom: 0rem;
+     }
+ }
+
+ @media only screen and (max-width: 1024px) and (min-width: 769px) {}
+
+ @CHARSET "UTF-8";
+ * {
+     padding: 0;
+     margin: 0;
+ }
+
+ .pagebox {
+     width: 100%;
+ }
+
+ .pagebox,
+ #-remove--flag {}
+
+ body,
+ #-remove--flag {}
+
+ @media only screen and (max-width: 1024px) and (min-width: 769px) {}
+
+ @media only screen and (max-width: 1024px) and (min-width: 769px) {}
+
+ @media only screen and (max-width: 1024px) and (min-width: 769px) {}
+
+ @media only screen and (max-width: 1024px) and (min-width: 769px) {}
+
+ @media only screen and (max-width: 1024px) and (min-width: 769px) {}
+
+ @-webkit-keyframes fadeOut {
+     0% {
+         opacity: 1;
+     }
+     100% {
+         opacity: 0;
+     }
+ }
+
+ @keyframes fadeOut {
+     0% {
+         opacity: 1;
+     }
+     100% {
+         opacity: 0;
+     }
+ }
+
+ #c_portalResBreadcrumb_nav-1613640916150 {
+     width: 100%;
+     max-width: 1200px;
+     min-width: 0px;
+     height: 33px;
+     max-height: none;
+     min-height: 0px;
+     margin-top: 20px;
+     margin-left: auto;
+     margin-right: auto;
+     margin-bottom: 0px;
+     padding-top: 0px;
+     padding-left: 0px;
+     padding-right: 0px;
+     padding-bottom: 0px;
+ }
+
+ #c_portalResIntro_category-1613640916145 .p_MatteIcon .iconfont:before {
+     content: '\e602';
+ }
+
+ #c_portalResIntro_category-1613640916145>div {
+     animation-fill-mode: both;
+ }
+
+ #c_portalResIntro_category-1613640916145 {
+     width: 100%;
+     max-width: 1200px;
+     min-width: 0px;
+     height: auto;
+     max-height: none;
+     min-height: 50px;
+     margin-top: 20px;
+     margin-left: auto;
+     margin-right: auto;
+     margin-bottom: 0px;
+     padding-top: 0px;
+     padding-left: 0px;
+     padding-right: 0px;
+     padding-bottom: 0px;
+ }
+
+ #c_portalResEbizads_banner-1613640916140 .p_MatteIcon .iconfont:before {
+     content: '\e602';
+ }
+
+ #c_portalResEbizads_banner-1613640916140>div {
+     animation-fill-mode: both;
+ }
+
+ #c_portalResEbizads_banner-1613640916140 {
+     width: auto;
+     max-width: none;
+     min-width: 300px;
+     height: auto;
+     max-height: none;
+     min-height: 0px;
+     margin-top: 0px;
+     margin-left: 0px;
+     margin-right: 0px;
+     margin-bottom: 0px;
+     padding-top: 0px;
+     padding-left: 0px;
+     padding-right: 0px;
+     padding-bottom: 0px;
+ }
+
+ #c_portalResNews_list-16136409605398527 .p_articles {
+     width: calc((100% - 80px)/4);
+ }
+
+ #c_portalResNews_list-16136409605398527 .p_CommonSummaryBoxA {
+     text-align: center;
+ }
+
+ #c_portalResNews_list-16136409605398527 .p_MatteIcon .iconfont:before {
+     content: '\e602';
+ }
+
+ #c_portalResNews_list-16136409605398527>div {
+     animation-fill-mode: both;
+ }
+
+ #c_portalResNews_list-16136409605398527 .p_hot .iconfont:before {
+     shadow-angle: 0px;
+     shadow-distance: 0px;
+     shadow-angle-ofInset: 0px;
+     shadow-distance-ofInset: 0px;
+ }
+
+ #c_portalResNews_list-16136409605398527 .p_new .iconfont:before {
+     shadow-angle: 0px;
+     shadow-distance: 0px;
+     shadow-angle-ofInset: 0px;
+     shadow-distance-ofInset: 0px;
+ }
+
+ #c_portalResNews_list-16136409605398527 .p_page .pre .iconfont:before {
+     shadow-angle: 0px;
+     shadow-distance: 0px;
+     shadow-angle-ofInset: 0px;
+     shadow-distance-ofInset: 0px;
+ }
+
+ #c_portalResNews_list-16136409605398527 .p_page .next .iconfont:before {
+     shadow-angle: 0px;
+     shadow-distance: 0px;
+     shadow-angle-ofInset: 0px;
+     shadow-distance-ofInset: 0px;
+ }
+
+ #c_portalResNews_list-16136409605398527 .p_more .iconfont:before {
+     shadow-angle: 0px;
+     shadow-distance: 0px;
+     shadow-angle-ofInset: 0px;
+     shadow-distance-ofInset: 0px;
+ }
+
+ #c_portalResNews_list-16136409605398527 .p_loading .iconfont:before {
+     shadow-angle: 0px;
+     shadow-distance: 0px;
+     shadow-angle-ofInset: 0px;
+     shadow-distance-ofInset: 0px;
+ }
+
+ #c_portalResNews_list-16136409605398527 {
+     width: 100%;
+     max-width: 1200px;
+     min-width: 320px;
+     height: auto;
+     max-height: none;
+     min-height: 0px;
+     margin-top: 20px;
+     margin-left: auto;
+     margin-right: auto;
+     margin-bottom: 0px;
+     padding-top: 0px;
+     padding-left: 0px;
+     padding-right: 0px;
+     padding-bottom: 0px;
+ }
+
+ #w_grid-1613640916090>div>.p_gridbox>.p_gridCell:nth-child(n+1) {
+     margin-left: 0;
+     clear: left;
+ }
+
+ @media only screen and (max-width: 1024px) and (min-width: 769px) {}
+
+ #w_grid-1613640916100>div>.p_gridbox>.p_gridCell:nth-child(n+1) {
+     margin-left: 0;
+     clear: left;
+ }
+
+ @media only screen and (max-width: 1024px) and (min-width: 769px) {}
+
+ #w_grid-1613640916110>div>.p_gridbox>.p_gridCell:nth-child(n+1) {
+     margin-left: 0;
+     clear: left;
+ }
+
+ @media only screen and (max-width: 1024px) and (min-width: 769px) {}
+
+ #w_grid-1613640916120>div>.p_gridbox>.p_gridCell:nth-child(n+1) {
+     margin-left: 0;
+     clear: left;
+ }
+
+ @media only screen and (max-width: 1024px) and (min-width: 769px) {}
+
+ #w_grid-1613640916130>div>.p_gridbox>.p_gridCell:nth-child(n+1) {
+     margin-left: 0;
+     clear: left;
+ }
+
+ @media only screen and (max-width: 768px) {}
+
+ @media only screen and (min-width: 769px) {}
+
+ @media only screen and (max-width: 1024px) and (min-width: 769px) {}
+
+ #w_grid-1613640916090 {
+     width: 100%;
+     max-width: none;
+     min-width: 0px;
+     height: auto;
+     max-height: none;
+     min-height: 0px;
+     margin-top: 0px;
+     margin-left: auto;
+     margin-right: auto;
+     margin-bottom: 0px;
+     padding-top: 0px;
+     padding-left: 0px;
+     padding-right: 0px;
+     padding-bottom: 0px;
+ }
+
+ #w_grid-1613640916100 {
+     width: 100%;
+     max-width: none;
+     min-width: 0px;
+     height: auto;
+     max-height: none;
+     min-height: 0px;
+     margin-top: 0px;
+     margin-left: auto;
+     margin-right: auto;
+     margin-bottom: 0px;
+     padding-top: 0px;
+     padding-left: 0px;
+     padding-right: 0px;
+     padding-bottom: 0px;
+ }
+
+ #w_grid-1613640916110 {
+     width: 100%;
+     max-width: none;
+     min-width: 0px;
+     height: auto;
+     max-height: none;
+     min-height: 0px;
+     margin-top: 0px;
+     margin-left: auto;
+     margin-right: auto;
+     margin-bottom: 0px;
+     padding-top: 0px;
+     padding-left: 0px;
+     padding-right: 0px;
+     padding-bottom: 0px;
+ }
+
+ #w_grid-1613640916120 {
+     width: 100%;
+     max-width: none;
+     min-width: 0px;
+     height: auto;
+     max-height: none;
+     min-height: 0px;
+     margin-top: 0px;
+     margin-left: auto;
+     margin-right: auto;
+     margin-bottom: 0px;
+     padding-top: 0px;
+     padding-left: 0px;
+     padding-right: 0px;
+     padding-bottom: 0px;
+ }
+
+ #w_grid-1613640916130 {
+     width: 100%;
+     max-width: none;
+     min-width: 0px;
+     height: auto;
+     max-height: none;
+     min-height: 0px;
+     margin-top: 0px;
+     margin-left: auto;
+     margin-right: auto;
+     margin-bottom: 0px;
+     padding-top: 0px;
+     padding-left: 0px;
+     padding-right: 0px;
+     padding-bottom: 0px;
+ }
