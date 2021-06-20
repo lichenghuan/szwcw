@@ -350,7 +350,7 @@
 
             }
 
-            /* 新增返回首页内容 add by jialiping at 20180420 start */
+            /* 新增返回home page内容 add by jialiping at 20180420 start */
             .c_NotFound_detail-01001 .p_CommonBtnBox { overflow: hidden;}
             .c_NotFound_detail-01001 .p_BackBtn{ min-width: 155px;}
             .c_NotFound_detail-01001 .p_BackTip{ font-size: 24px;
@@ -365,7 +365,7 @@
                 background-color: rgba(27,122,228)
             }
 
-            /* 新增返回首页内容 add by jialiping at 20180420 end */
+            /* 新增返回home page内容 add by jialiping at 20180420 end */
         }
         @media only screen and (min-width: 769px){/*大屏*/
 
@@ -690,13 +690,13 @@
 
             }
 
-            /* 新增返回首页内容 add by jialiping at 20180420 start */
+            /* 新增返回home page内容 add by jialiping at 20180420 start */
             .c_NotFound_detail-01001 .p_CommonBtnBox { overflow: hidden;}
             .c_NotFound_detail-01001 .p_CommonBtnBox > * { float: left; margin:0 10px 0 0;}
             .c_NotFound_detail-01001 .p_BackBtn{ min-width: 155px;}
             .c_NotFound_detail-01001 .p_BackTip{ font-size:16px; line-height: 42px;}
             .c_NotFound_detail-01001 .p_BackTip b{padding:0 4px 0 0; color: #008EAD;}
-            /* 新增返回首页内容 add by jialiping at 20180420 end */
+            /* 新增返回home page内容 add by jialiping at 20180420 end */
         }
         @media only screen and (max-width: 1024px) and (min-width: 769px){/*中屏*/
 
@@ -726,10 +726,10 @@
                     <div class="e_btn e_CommonIconBtn-001 p_CommonBtn p_BackBtnIndex" >
                         <div class="font" onclick="javascript :history.go(-1);"><i class="iconfont"></i>返回上一页</div>
                     </div>
-                    <a class="e_btn e_CommonIconBtn-001 p_CommonBtn p_BackBtn" data-ename-="返回首页">
-                        <div class="font" id="backHome" onclick="backHomeClick();">返回首页</div>
+                    <a class="e_btn e_CommonIconBtn-001 p_CommonBtn p_BackBtn" data-ename-="返回home page">
+                        <div class="font" id="backHome" onclick="backHomeClick();">返回home page</div>
                     </a>
-                    <div class="p_BackTip"><b id="js_skipTime">5</b>秒后自动为您返回到网站首页！</div>
+                    <div class="p_BackTip"><b id="js_skipTime">5</b>秒后自动为您返回到网站home page！</div>
                 </div>
             </div>
         </div>
